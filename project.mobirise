@@ -128,7 +128,7 @@
             "bgColor": "#c1c1c1"
           },
           "title": "",
-          "meta": "Welcome to our new in stock page.\n<br>Please note this website is under construction by our admin\n<br>Capricorn car sales would like to say sorry for the delay in stock pics all new updates coming soon.",
+          "meta": "Welcome to our new in stock page.\n<br>Please note this website is under construction by our admin\n<br>Capricorn car sales would like to say sorry for the delay in stock pics all new updates coming soon.<br>At Capricorn cars we are proud to have helped 1000's of customers over the year's get into their new used low millage car quickly, easily and hassle free,<br>Please click or tap the eBay show room tab above to view all our stock. Thank you &nbsp;&nbsp;<br>",
           "_tags": [
             "Theme"
           ],
@@ -156,7 +156,7 @@
                 "image": "@PROJECT_PATH@/assets/images/sam-2000x1500.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/sam-2000x1500-800x600.jpg",
                 "alt": "",
-                "caption": "Type caption here",
+                "caption": "PLEASE NOTE NEW STOCK PIC COMING SOON",
                 "active": false
               },
               {
@@ -167,7 +167,7 @@
                 "image": "@PROJECT_PATH@/assets/images/code-man.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/code-man-800x533.jpg",
                 "alt": "",
-                "caption": "Type caption here",
+                "caption": "PLEASE NOTE NEW STOCK PIC COMING SOON",
                 "active": true
               },
               {
@@ -178,7 +178,7 @@
                 "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
                 "alt": "",
-                "caption": "Type caption here"
+                "caption": "PLEASE NOTE NEW STOCK PIC COMING SOON"
               },
               {
                 "tags": "Animated",
@@ -188,7 +188,7 @@
                 "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
                 "alt": "",
-                "caption": "Type caption here"
+                "caption": "PLEASE NOTE NEW STOCK PIC COMING SOON"
               },
               {
                 "tags": "Awesome",
@@ -198,7 +198,7 @@
                 "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
                 "alt": "",
-                "caption": "Type caption here"
+                "caption": "PLEASE NOTE NEW STOCK PIC COMING SOON"
               },
               {
                 "tags": "Beautiful",
@@ -208,7 +208,7 @@
                 "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
                 "alt": "",
-                "caption": "Type caption here"
+                "caption": "PLEASE NOTE NEW STOCK PIC COMING SOON"
               },
               {
                 "tags": "Responsive",
@@ -218,7 +218,7 @@
                 "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
                 "alt": "",
-                "caption": "Type caption here"
+                "caption": "PLEASE NOTE NEW STOCK PIC COMING SOON"
               },
               {
                 "tags": "Animated",
@@ -228,7 +228,7 @@
                 "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
                 "alt": "",
-                "caption": "Type caption here"
+                "caption": "PLEASE NOTE NEW STOCK PIC COMING SOON"
               }
             ]
           },
@@ -457,7 +457,7 @@
             "bgColor": "#28324e"
           },
           "title": "",
-          "meta": "Built By Admin A.CROSS 365 small business websites copy rights now apply 20017 owner Mr Glyn Thomas of capricorn car sales in Deeside Flintshire Call 01244-818-992",
+          "meta": "Website built by owner &amp; admin A.CROSS 365 small business websites copy rights now apply 20017.&nbsp;<br>Owner of capricorn car sales Mr Glyn Thomas in Deeside Flintshire Call 01244-818-992",
           "_tags": [
             "Theme"
           ],
