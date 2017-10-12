@@ -21,11 +21,12 @@
         "isRtl": false
       },
       "additionalSetColors": [
-        "#b4a2a2"
+        "#b4a2a2",
+        "#8c8c8c"
       ]
     },
     "versionFirst": "4.2.3",
-    "uniqCompNum": 21,
+    "uniqCompNum": 22,
     "versionPublish": "4.2.3",
     "favicon": "@PROJECT_PATH@/assets/images/j2tbo9y-128x96.png",
     "noImageResize": ""
@@ -60,7 +61,7 @@
             },
             "overlay": true,
             "overlayColor": "#000",
-            "overlayOpacity": "0.1"
+            "overlayOpacity": "0.4"
           },
           "media": {
             "image": {
@@ -89,9 +90,9 @@
               "newWindow": false
             }
           },
-          "title": "Welcome to Capricorn Car Sales In Stock Page",
+          "title": "Welcome to Capricorn Car Sales In Stock Page.<br><br>",
           "text": "Opening Hours\n<br>\n<br><b>Monday 09:30 AM to 05:30 PM\n<br>Tuesday 09:30 AM to 05:30 PM\n<br>Wednesday 09:30 AM to 05:30 PM\n<br>Thursday 09:30 AM to 05:30 PM\n<br>Friday 09:30 AM to 05:30 PM\n<br>Saturday 10:30 AM to 04:00 PM\n<br>Sunday 11:30 AM to 03:00 PM\n<br>AFTER HOURS :APOINTMENTS ARRANGED,\n</b><br><b>Our Website address, www.capricorncars.co.uk\n<br> * PHONE CAR SALES *\n<br> 01244-818992 \n<br> Mobile 07859 069461&nbsp;</b><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.capricorncars.co.uk/Pages/default.aspx\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">HOME PAGE</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.capricorncars.co.uk/Pages/default.aspx\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-play mbr-iconfont mbr-iconfont-btn\"></span>HOME PAGE</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://form.jotformeu.com/70632972617360\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\"></span>Contact us here</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://ebayshowroom.ebaymotorspro.co.uk/emp/showroom.html?cid=H8WENNQYZtmf%2FXEoRBdvwA%3D%3D&amp;s=0\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"etl-icon icon-attachment mbr-iconfont mbr-iconfont-btn\"></span>Capricorn cars eBay show room</a>",
           "_tags": [
             "Theme"
           ],
@@ -107,6 +108,32 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700"
             }
           }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#000000",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "18px"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgColor": "#c1c1c1"
+          },
+          "title": "",
+          "meta": "Welcome to our new in stock page.\n<br>Please note this website is under construction by our admin\n<br>Capricorn car sales would like to say sorry for the delay in stock pics all new updates coming soon.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-l"
         },
         {
           "_inherit": "gallery1",
@@ -313,9 +340,9 @@
           "_params": {
             "logo": true,
             "showBrand": true,
-            "hideButtons": false,
+            "hideButtons": true,
             "sticky": true,
-            "collapsed": true,
+            "collapsed": false,
             "transparent": false,
             "bgColor": "#282828",
             "fontSize": "1.2",
@@ -323,7 +350,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"http://www.capricorncars.co.uk/Pages/default.aspx\" target=\"_blank\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">New Item</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">New Item</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://form.jotformeu.com/70632972617360\">CONTACT US HERE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://arthur365.github.io/INSTOCKNOW/\" target=\"_blank\">IN STOCK NOW</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"http://www.capricorncars.co.uk/Pages/default.aspx\" target=\"_blank\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">New Item</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">New Item</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://form.jotformeu.com/70632972617360\">CONTACT US HERE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://arthur365.github.io/INSTOCKNOW/\" target=\"_blank\">IN STOCK NOW</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -430,7 +457,7 @@
             "bgColor": "#28324e"
           },
           "title": "",
-          "meta": "Built By Admin A.CROSS 365 small business websites copy rights now apply 20017 owner Mr Glyn Thomas of capricorn car sales in Deeside Flintshire",
+          "meta": "Built By Admin A.CROSS 365 small business websites copy rights now apply 20017 owner Mr Glyn Thomas of capricorn car sales in Deeside Flintshire Call 01244-818-992",
           "_tags": [
             "Theme"
           ],
