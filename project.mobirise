@@ -90,7 +90,7 @@
               "newWindow": false
             }
           },
-          "title": "Welcome to Capricorn Car Sales In Stock Page.<br><br>",
+          "title": "Welcome to Capricorn Car Sales New In Stock Page.<br><br>",
           "text": "Opening Hours\n<br>\n<br><b>Monday 09:30 AM to 05:30 PM\n<br>Tuesday 09:30 AM to 05:30 PM\n<br>Wednesday 09:30 AM to 05:30 PM\n<br>Thursday 09:30 AM to 05:30 PM\n<br>Friday 09:30 AM to 05:30 PM\n<br>Saturday 10:30 AM to 04:00 PM\n<br>Sunday 11:30 AM to 03:00 PM\n<br>AFTER HOURS :APOINTMENTS ARRANGED,\n</b><br><b>Our Website address, www.capricorncars.co.uk\n<br> * PHONE CAR SALES *\n<br> 01244-818992 \n<br> Mobile 07859 069461&nbsp;</b><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.capricorncars.co.uk/Pages/default.aspx\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-play mbr-iconfont mbr-iconfont-btn\"></span>HOME PAGE</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://form.jotformeu.com/70632972617360\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\"></span>Contact us here</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://ebayshowroom.ebaymotorspro.co.uk/emp/showroom.html?cid=H8WENNQYZtmf%2FXEoRBdvwA%3D%3D&amp;s=0\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"etl-icon icon-attachment mbr-iconfont mbr-iconfont-btn\"></span>Capricorn cars eBay show room</a>",
           "_tags": [
@@ -118,7 +118,8 @@
               "color": "#000000",
               "font-family": "'Oxygen', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "font-size": "18px"
+              "font-size": "18px",
+              "text-align": "center"
             }
           },
           "_params": {
@@ -128,7 +129,7 @@
             "bgColor": "#c1c1c1"
           },
           "title": "",
-          "meta": "Welcome to our new in stock page.\n<br>Please note this website is under construction by our admin\n<br>Capricorn car sales would like to say sorry for the delay in stock pics all new updates coming soon.<br>At Capricorn cars we are proud to have helped 1000's of customers over the year's get into their new used low millage car quickly, easily and hassle free,<br>Please click or tap the eBay show room tab above to view all our stock. Thank you &nbsp;&nbsp;<br>",
+          "meta": "Welcome to our new in stock page. \n<br>Please note this website is under construction by our admin \n<br>Capricorn car sales would like to say sorry for the delay in stock pics all new updates coming soon.\n<br>At Capricorn cars we are proud to have helped 1000's of customers over the year's get into their new used low millage car quickly, easily and hassle free,\n<br>Please click or tap the eBay show room tab above to view all our low millage cars in stock. <br>Thank you.",
           "_tags": [
             "Theme"
           ],
