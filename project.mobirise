@@ -83,8 +83,10 @@
               "name": "apple",
               "family": "MobiriseIcons",
               "link": "",
-              "size": 250,
-              "active": true
+              "size": "1",
+              "active": true,
+              "color": "",
+              "newWindow": false
             }
           },
           "title": "Welcome to Capricorn car sales in stock page",
@@ -111,7 +113,7 @@
             "paddingBottom": 1,
             "filterBgColor": true,
             "bgColor": "#000000",
-            "showText": false,
+            "showText": true,
             "filter": false,
             "images": [
               {
@@ -119,21 +121,22 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sam-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sam-2000x1500-800x600.jpg",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Responsive",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/code-man.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/code-man-800x533.jpg",
                 "alt": "",
-                "caption": "Type caption here"
+                "caption": "Type caption here",
+                "active": true
               },
               {
                 "tags": "Creative",
