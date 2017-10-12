@@ -25,7 +25,7 @@
       ]
     },
     "versionFirst": "4.2.3",
-    "uniqCompNum": 17,
+    "uniqCompNum": 21,
     "versionPublish": "4.2.3",
     "favicon": "@PROJECT_PATH@/assets/images/j2tbo9y-128x96.png",
     "noImageResize": ""
@@ -48,7 +48,7 @@
             "showButtons": true,
             "inverse": false,
             "showArrow": true,
-            "imageSize": "58",
+            "imageSize": "21",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1620x1080.jpg",
             "parallax": true,
@@ -90,7 +90,7 @@
             }
           },
           "title": "Welcome to Capricorn Car Sales In Stock Page",
-          "text": "Capricorn car sale's in Deeside Flintshire at your service.\n<br> Please add this page to your mobile phone ? the used car buyers guide to their next low milage used car Call car sale's on&nbsp;",
+          "text": "Opening Hours\n<br>\n<br><b>Monday 09:30 AM to 05:30 PM\n<br>Tuesday 09:30 AM to 05:30 PM\n<br>Wednesday 09:30 AM to 05:30 PM\n<br>Thursday 09:30 AM to 05:30 PM\n<br>Friday 09:30 AM to 05:30 PM\n<br>Saturday 10:30 AM to 04:00 PM\n<br>Sunday 11:30 AM to 03:00 PM\n<br>AFTER HOURS :APOINTMENTS ARRANGED,\n</b><br><b>Our Website address, www.capricorncars.co.uk\n<br> * PHONE CAR SALES *\n<br> 01244-818992 \n<br> Mobile 07859 069461&nbsp;</b><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.capricorncars.co.uk/Pages/default.aspx\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">HOME PAGE</a>",
           "_tags": [
             "Theme"
@@ -291,14 +291,14 @@
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "3",
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/logo-132x101.jpg",
-            "parallax": false,
-            "bgColorRadio": true,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
             "bgColor": "#b4a2a2",
             "overlay": true,
             "overlayColor": "#28324e",
-            "overlayOpacity": "1"
+            "overlayOpacity": "0.8"
           },
           "text": "FOLLOW US",
           "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(61, 142, 185);\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(61, 142, 185);\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-googleplus mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(61, 142, 185);\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(61, 142, 185);\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(61, 142, 185);\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-pinterest mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(61, 142, 185);\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"http://mobirise.tumblr.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-tumblr mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(61, 142, 185);\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(61, 142, 185);\"></span></a>   ",
@@ -372,7 +372,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "@primaryColor!important"
+              "color": "#3d8eb9!important"
             }
           },
           "logo": {
@@ -398,6 +398,44 @@
           "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Capricorn Car Sales in Deeside N.Wales<br>Just off the Flintshire Bridge.<br></a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-g"
+        },
+        {
+          "_params": {
+            "googleMap": {
+              "address": "130 Church St, Connah's Quay, Deeside CH5 4AR",
+              "placeId": "ChIJmyLQwmLaekgRS7xQM4czrqQ",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "map1",
+          "_anchor": "map1-h"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#efefef"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#28324e"
+          },
+          "title": "",
+          "meta": "Built By Admin A.CROSS 365 small business websites copy rights now apply 20017 owner Mr Glyn Thomas of capricorn car sales in Deeside Flintshire",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-k"
         }
       ]
     }
