@@ -315,6 +315,21 @@
           }
         },
         {
+          "_params": {
+            "googleMap": {
+              "address": "130 Church St, Connah's Quay, Deeside CH5 4AR",
+              "placeId": "ChIJmyLQwmLaekgRS7xQM4czrqQ",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "map1",
+          "_anchor": "map1-h"
+        },
+        {
           "_styles": {
             ".mbr-section-title, .btn-social": {
               "color": "#232323"
@@ -342,6 +357,29 @@
           ],
           "_name": "social-buttons2",
           "_anchor": "social-buttons2-9"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#efefef"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#28324e"
+          },
+          "title": "",
+          "meta": "On behalf of Capricorrn car sales.<br>Owner of Website and admin A.CROSS 365 small business websites &nbsp;built for you copy rights now apply 20017.&nbsp;<br>Owner of capricorn car sales Mr Glyn Thomas in Deeside Flintshire Call 01244-818-992",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-k"
         },
         {
           "_inherit": "menu",
@@ -433,44 +471,6 @@
           "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://arthur365.github.io/INSTOCKNOW/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">Capricorn Car Sales in Deeside N.Wales<br>Just off the Flintshire Bridge.<br></a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-g"
-        },
-        {
-          "_params": {
-            "googleMap": {
-              "address": "130 Church St, Connah's Quay, Deeside CH5 4AR",
-              "placeId": "ChIJmyLQwmLaekgRS7xQM4czrqQ",
-              "state": "ok",
-              "stateDetails": ""
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "map1",
-          "_anchor": "map1-h"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#efefef"
-            }
-          },
-          "_params": {
-            "showMeta": true,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#28324e"
-          },
-          "title": "",
-          "meta": "On behalf of Capricorrn car sales.<br>Owner of Website and admin A.CROSS 365 small business websites &nbsp;built for you copy rights now apply 20017.&nbsp;<br>Owner of capricorn car sales Mr Glyn Thomas in Deeside Flintshire Call 01244-818-992",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-k"
         }
       ]
     }

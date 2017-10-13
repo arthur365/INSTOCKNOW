@@ -461,6 +461,13 @@ h6,
 #social-buttons2-9 .mbr-section-title {
   color: #3d8eb9;
 }
+#header3-k .mbr-section-title,
+#header3-k .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-k .mbr-section-subtitle {
+  color: #efefef;
+}
 #ext_menu-g .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -521,11 +528,4 @@ h6,
 #ext_menu-g .link[aria-expanded="true"],
 #ext_menu-g .dropdown-item[aria-expanded="true"] {
   color: #3d8eb9!important;
-}
-#header3-k .mbr-section-title,
-#header3-k .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-k .mbr-section-subtitle {
-  color: #efefef;
 }
