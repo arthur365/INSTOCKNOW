@@ -248,7 +248,12 @@
           "articleLayout": false,
           "allItem": "All",
           "_name": "gallery3",
-          "_anchor": "gallery3-8"
+          "_anchor": "gallery3-8",
+          "_styles": {
+            ".mbr-gallery-item > div > span": {
+              "font-size": "12px"
+            }
+          }
         },
         {
           "_params": {
