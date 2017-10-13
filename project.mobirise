@@ -198,47 +198,51 @@
                 "thumb": "@PROJECT_PATH@/assets/images/bm-ujk-1600x1199-800x599.jpg",
                 "alt": "",
                 "caption": "BMW 118 D M SPORT 2012\n<br>Full Service History/*54000 Miles*/Low Rate Finance \n<br>£9,995.00 (No VAT)&nbsp;",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Awesome",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/citroen-c3-picasso-1600x1199.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/citroen-c3-picasso-1600x1199-800x599.jpg",
                 "alt": "",
-                "caption": "PLEASE NOTE NEW STOCK PIC COMING SOON"
+                "caption": "PLEASE NOTE NEW STOCK PIC COMING SOON",
+                "active": false
               },
               {
                 "tags": "Beautiful",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/citroen-ds3-1.6hdi-110-dsport-2010-dhy-1600x1199.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/citroen-ds3-1.6hdi-110-dsport-2010-dhy-1600x1199-800x599.jpg",
                 "alt": "",
-                "caption": "PLEASE NOTE NEW STOCK PIC COMING SOON"
+                "caption": "PLEASE NOTE NEW STOCK PIC COMING SOON",
+                "active": false
               },
               {
                 "tags": "Responsive",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/fiat-500c-1.2-lounge-convertable-ouw-1600x1199.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/fiat-500c-1.2-lounge-convertable-ouw-1600x1199-800x599.jpg",
                 "alt": "",
-                "caption": "PLEASE NOTE NEW STOCK PIC COMING SOON"
+                "caption": "PLEASE NOTE NEW STOCK PIC COMING SOON",
+                "active": false
               },
               {
                 "tags": "Animated",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ford-fiesta-1.4-2009-zetec-zxk-1600x1199.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ford-fiesta-1.4-2009-zetec-zxk-1600x1199-800x599.jpg",
                 "alt": "",
-                "caption": "PLEASE NOTE NEW STOCK PIC COMING SOON"
+                "caption": "PLEASE NOTE NEW STOCK PIC COMING SOON",
+                "active": true
               }
             ]
           },
