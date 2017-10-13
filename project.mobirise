@@ -172,31 +172,33 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/code-man.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/code-man-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ade-yau-1600x1199.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ade-yau-1600x1199-800x599.jpg",
                 "alt": "",
                 "caption": "PLEASE NOTE NEW STOCK PIC COMING SOON",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Creative",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/alfa-juf-1600x1199.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/alfa-juf-1600x1199-800x599.jpg",
                 "alt": "",
-                "caption": "PLEASE NOTE NEW STOCK PIC COMING SOON"
+                "caption": "PLEASE NOTE NEW STOCK PIC COMING SOON",
+                "active": false
               },
               {
                 "tags": "Animated",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bm-ujk-1600x1199.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/bm-ujk-1600x1199-800x599.jpg",
                 "alt": "",
-                "caption": "PLEASE NOTE NEW STOCK PIC COMING SOON"
+                "caption": "PLEASE NOTE NEW STOCK PIC COMING SOON",
+                "active": true
               },
               {
                 "tags": "Awesome",
