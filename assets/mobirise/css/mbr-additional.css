@@ -437,10 +437,13 @@ h6,
   text-align: center;
 }
 #header3-l .mbr-section-subtitle {
-  color: #000000;
+  color: #ec0f0c;
   font-family: 'Oxygen', sans-serif;
   font-size: 18px;
   text-align: center;
+}
+#header3-l .mbr-section-subtitle B {
+  color: #2b0680;
 }
 #gallery3-8 .mbr-gallery-item > div > span {
   font-size: 12px;

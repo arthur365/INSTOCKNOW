@@ -23,7 +23,8 @@
       "additionalSetColors": [
         "#b4a2a2",
         "#8c8c8c",
-        "#7b9df1"
+        "#7b9df1",
+        "#ec0f0c"
       ]
     },
     "versionFirst": "4.2.3",
@@ -122,21 +123,24 @@
               "text-align": "center"
             },
             ".mbr-section-subtitle": {
-              "color": "#000000",
+              "color": "#ec0f0c",
               "font-family": "'Oxygen', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
               "font-size": "18px",
               "text-align": "center"
+            },
+            ".mbr-section-subtitle B": {
+              "color": "#2b0680"
             }
           },
           "_params": {
             "showMeta": true,
             "paddingTop": "0",
             "paddingBottom": "1",
-            "bgColor": "#c1c1c1"
+            "bgColor": "#8c8c8c"
           },
           "title": "",
-          "meta": "Welcome to our new in stock page. \n<br>Please note this website is under construction by our admin \n<br>Capricorn car sales would like to say sorry for the delay in stock pics all new updates coming soon.\n<br>At Capricorn cars we are proud to have helped 1000's of customers over the year's get into their new used low millage car quickly, easily and hassle free,\n<br>Please click or tap the eBay show room tab above to view all our low millage cars in stock. <br>Thank you.",
+          "meta": "<b>Welcome to our new in stock page. \n<br>Please note this website is under construction by our admin \n<br>Capricorn car sales would like to say sorry for the delay in stock pics all new updates coming soon.\n<br>At Capricorn cars we are proud to have helped 1000's of customers over the year's get into their new used low millage car quickly, easily and hassle free,\n<br>Please click or tap the eBay show room tab above to view car full details &nbsp;<br>low millage cars now in stock. <br>Thank you.</b>",
           "_tags": [
             "Theme"
           ],
