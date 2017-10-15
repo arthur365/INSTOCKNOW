@@ -297,6 +297,72 @@
                 "thumb": "@PROJECT_PATH@/assets/images/hyundai-i30-1.6-style-xos-1600x1199-800x599.jpg",
                 "alt": "",
                 "caption": "Hyundai i30 1.6 Style",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/kia-ceed-1.6crdi-88bhp-gs-uyt-1600x1199.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/kia-ceed-1.6crdi-88bhp-gs-uyt-1600x1199-800x599.jpg",
+                "alt": "",
+                "caption": "Kia ceed 1.6CRDi ( 88bhp ) GS",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/kia-ceed-1.6td-114bhp-2010-2-eac-1600x1199.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/kia-ceed-1.6td-114bhp-2010-2-eac-1600x1199-800x599.jpg",
+                "alt": "",
+                "caption": "Kia ceed 1.6TD ( 114bhp ) 2010 2",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/land-rover-discovery-3-2.7tdv6-commercial-dtn-1600x1199.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/land-rover-discovery-3-2.7tdv6-commercial-dtn-1600x1199-800x599.jpg",
+                "alt": "",
+                "caption": "Land Rover Discovery 3 2.7tdv6 commercial",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/land-rover-freelander-2-2.2td4-auto-2008-hst-eeh-1600x1199.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/land-rover-freelander-2-2.2td4-auto-2008-hst-eeh-1600x1199-800x599.jpg",
+                "alt": "",
+                "caption": "Land Rover Freelander 2 2.2Td4 auto 2008 HST&nbsp;",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/peugeot-107-1.0-12v-allure-2010-vjn-1600x1199.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/peugeot-107-1.0-12v-allure-2010-vjn-1600x1199-800x599.jpg",
+                "alt": "",
+                "caption": "Peugeot 107 1.0 12v Allure 2010",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/peugeot-3008-crossover-1.6e-hdi-115bhp-fap-egc-2013-active-2324-1600x1199.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/peugeot-3008-crossover-1.6e-hdi-115bhp-fap-egc-2013-active-2324-1600x1199-800x599.jpg",
+                "alt": "",
+                "caption": "Peugeot 3008 Crossover 1.6e-HDi ( 115bhp ) FAP EGC&nbsp;",
                 "active": true
               }
             ]
