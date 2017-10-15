@@ -359,11 +359,11 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/peugeot-3008-crossover-1.6e-hdi-115bhp-fap-egc-2013-active-2324-1600x1199.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/peugeot-3008-crossover-1.6e-hdi-115bhp-fap-egc-2013-active-2324-1600x1199-800x599.jpg",
+                "image": "@PROJECT_PATH@/assets/images/vauxhall-opel-corsa-1.2i-16v-85ps-limited-edition-a-c-2013-kxb-1600x1199.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vauxhall-opel-corsa-1.2i-16v-85ps-limited-edition-a-c-2013-kxb-1600x1199-800x599.jpg",
                 "alt": "",
                 "caption": "Peugeot 3008 Crossover 1.6e-HDi ( 115bhp ) FAP EGC&nbsp;",
-                "active": true
+                "active": false
               }
             ]
           },
