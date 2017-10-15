@@ -364,6 +364,83 @@
                 "alt": "",
                 "caption": "Peugeot 3008 Crossover 1.6e-HDi ( 115bhp ) FAP EGC&nbsp;",
                 "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/vauxhall-opel-astra-18i-16v-140ps-sport-hatch-2008-design-tzf-1600x1199.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vauxhall-opel-astra-18i-16v-140ps-sport-hatch-2008-design-tzf-1600x1199-800x599.jpg",
+                "alt": "",
+                "caption": "Peugeot 3008 Crossover 1.6e-HDi ( 115bhp ) FAP EGC&nbsp;",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/vauxhall-astravan-1.3cdti-16v-2008-club-hwx-1600x1199.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vauxhall-astravan-1.3cdti-16v-2008-club-hwx-1600x1199-800x599.jpg",
+                "alt": "",
+                "caption": "Peugeot 3008 Crossover 1.6e-HDi ( 115bhp ) FAP EGC&nbsp;",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/vauxhall-opel-corsa-1.8i-16v-a-c-2005-sri-sdu-1600x1199.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vauxhall-opel-corsa-1.8i-16v-a-c-2005-sri-sdu-1600x1199-800x599.jpg",
+                "alt": "",
+                "caption": "Peugeot 3008 Crossover 1.6e-HDi ( 115bhp ) FAP EGC&nbsp;",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/vauxhall-opel-insignia-1.8i-16v-vvt-2009-exclusiv-whc-1600x1199.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vauxhall-opel-insignia-1.8i-16v-vvt-2009-exclusiv-whc-1600x1199-800x599.jpg",
+                "alt": "",
+                "caption": "Ford Mondeo 2.0TD ( 163ps ) Powershift 2010 Titanium X",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/vauxhall-opel-insignia-2.0cdti-16v-160ps-2011-sri-nwc-1600x1199.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vauxhall-opel-insignia-2.0cdti-16v-160ps-2011-sri-nwc-1600x1199-800x599.jpg",
+                "alt": "",
+                "caption": "Ford Mondeo 2.0TD ( 163ps ) Powershift 2010 Titanium X",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/vauxhall-opel-meriva-1.4-16v-140ps-a-c-1398cc-2010-exclusiv-ttx-1600x1199.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vauxhall-opel-meriva-1.4-16v-140ps-a-c-1398cc-2010-exclusiv-ttx-1600x1199-800x599.jpg",
+                "alt": "",
+                "caption": "Ford Mondeo 2.0TD ( 163ps ) Powershift 2010 Titanium X",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/volkswagen-golf-1.6-fsi-115ps-2008-match-xtl-1600x1199.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/volkswagen-golf-1.6-fsi-115ps-2008-match-xtl-1600x1199-800x599.jpg",
+                "alt": "",
+                "caption": "Ford Mondeo 2.0TD ( 163ps ) Powershift 2010 Titanium X",
+                "active": true
               }
             ]
           },
