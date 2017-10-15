@@ -165,7 +165,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/ford-mondeo-2.0td-163ps-powershift-2010-titanium-x-tjv-1600x1199-800x599.jpg",
                 "alt": "",
                 "caption": "Ford Mondeo 2.0TD ( 163ps ) Powershift 2010 Titanium X",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Responsive",
@@ -265,6 +265,39 @@
                 "alt": "",
                 "caption": "Ford Focus 1.6 ( 100ps ) 2008 Style",
                 "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/honda-fr-v-2.0i-vtec-sport-2006-uwv-1600x1199.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/honda-fr-v-2.0i-vtec-sport-2006-uwv-1600x1199-800x599.jpg",
+                "alt": "",
+                "caption": "Honda FR-V 2.0i-VTEC Sport 2006",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/hyundai-i10-1.1-comfort-zkc-1600x1199.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/hyundai-i10-1.1-comfort-zkc-1600x1199-800x599.jpg",
+                "alt": "",
+                "caption": "Hyundai i10 1.1 Comfort",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/hyundai-i30-1.6-style-xos-1600x1199.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/hyundai-i30-1.6-style-xos-1600x1199-800x599.jpg",
+                "alt": "",
+                "caption": "Hyundai i30 1.6 Style",
+                "active": true
               }
             ]
           },
