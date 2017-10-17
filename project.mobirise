@@ -137,10 +137,10 @@
             "showMeta": true,
             "paddingTop": "0",
             "paddingBottom": "1",
-            "bgColor": "#8c8c8c"
+            "bgColor": "#000000"
           },
           "title": "",
-          "meta": "<b>Welcome to our new in stock page. \n<br>Please note this website is under construction by our admin \n<br>Capricorn car sales would like to say sorry for the delay in stock pics all new updates coming soon.\n<br>At Capricorn cars we are proud to have helped 1000's of customers over the year's get into their new used low millage car quickly, easily and hassle free,\n<br>Please click or tap the eBay show room tab above to view car full details &nbsp;<br>low millage cars now in stock. <br>Thank you.</b>",
+          "meta": "<font color=\"#efefef\"><b>gg</b></font>",
           "_tags": [
             "Theme"
           ],
