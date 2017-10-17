@@ -130,7 +130,7 @@
               "text-align": "center"
             },
             ".mbr-section-subtitle B": {
-              "color": "#2b0680"
+              "color": "#efefef"
             }
           },
           "_params": {
