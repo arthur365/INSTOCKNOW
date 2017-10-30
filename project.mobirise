@@ -460,6 +460,83 @@
                 "thumb": "@PROJECT_PATH@/assets/images/volkswagen-golf-1.6-fsi-115ps-2008-match-xtl-1600x1199-800x599.jpg",
                 "alt": "",
                 "caption": "",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/renault-clio-1.2-16v-75-2009-tomtom-ufd-1600x1199.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/renault-clio-1.2-16v-75-2009-tomtom-ufd-1600x1199-800x599.jpg",
+                "alt": "",
+                "caption": "",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/renault-clio-1.4-16v-98-dynamique-2006-nbx-1600x1200.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/renault-clio-1.4-16v-98-dynamique-2006-nbx-1600x1200-800x600.jpg",
+                "alt": "",
+                "caption": "",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/renault-megane-1.5dci-106-dynamique-yus-1600x1199.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/renault-megane-1.5dci-106-dynamique-yus-1600x1199-800x599.jpg",
+                "alt": "",
+                "caption": "",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/renault-megane-1.6vvt-110-dynamique-dzg-1600x1199.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/renault-megane-1.6vvt-110-dynamique-dzg-1600x1199-800x599.jpg",
+                "alt": "",
+                "caption": "",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/renault-wind-roadster-1.2tce-100-2011-gt-line-wbx-1600x1199.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/renault-wind-roadster-1.2tce-100-2011-gt-line-wbx-1600x1199-800x599.jpg",
+                "alt": "",
+                "caption": "",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/suzuki-grand-vitara-1.9ddis-2007-xvo-1600x1199.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/suzuki-grand-vitara-1.9ddis-2007-xvo-1600x1199-800x599.jpg",
+                "alt": "",
+                "caption": "",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/peugeot-3008-crossover-1.6e-hdi-115bhp-fap-egc-2013-active-2324-1600x1199-800x599.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/peugeot-3008-crossover-1.6e-hdi-115bhp-fap-egc-2013-active-2324-1600x1199-800x599-800x599.jpg",
+                "alt": "",
+                "caption": "",
                 "active": true
               }
             ]
@@ -622,7 +699,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#645523!important"
+              "color": "#c1c1c1!important"
             }
           },
           "logo": {
