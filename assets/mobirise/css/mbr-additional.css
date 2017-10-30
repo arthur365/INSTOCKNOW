@@ -423,8 +423,9 @@ h6,
   font-size: 22px;
 }
 #header2-6 .mbr-section-title {
-  text-align: right;
+  text-align: center;
   font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-size: 84px;
 }
 #header2-6 .btn {
   font-size: 13px;
