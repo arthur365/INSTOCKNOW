@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700);
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
@@ -424,8 +424,10 @@ h6,
   font-size: 22px;
 }
 #header2-6 .mbr-section-title {
-  text-align: right;
-  font-family: 'Yanone Kaffeesatz', sans-serif;
+  text-align: center;
+  font-family: 'PT Sans Narrow', sans-serif;
+  font-size: 72px;
+  color: #efefef;
 }
 #header2-6 .btn {
   font-size: 13px;
