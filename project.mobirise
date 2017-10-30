@@ -107,7 +107,7 @@
             ".mbr-section-text": {
               "text-align": "left",
               "font-size": "22px",
-              "color": "#efefef",
+              "color": "#cccccc",
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             },
@@ -124,7 +124,7 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             },
             ".mbr-section-text B": {
-              "color": "#efefef"
+              "color": "#cccccc"
             }
           }
         },
