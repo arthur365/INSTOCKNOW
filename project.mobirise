@@ -92,7 +92,7 @@
               "newWindow": false
             }
           },
-          "title": "Welcome to Capricorn Car Sales <br>New In Stock Page<br><br>",
+          "title": "Welcome to Capricorn Car Sales New In Stock Page.<br><br>",
           "text": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Opening Hours :&nbsp;<br>\n<br><b>Monday 09:30 AM to 05:30 PM\n<br>Tuesday 09:30 AM to 05:30 PM\n<br>Wednesday 09:30 AM to 05:30 PM\n<br>Thursday 09:30 AM to 05:30 PM\n<br>Friday 09:30 AM to 05:30 PM\n<br>Saturday 10:30 AM to 04:00 PM\n<br>Sunday 11:30 AM to 03:00 PM\n<br></b><br><b>AFTER HOURS :APOINTMENTS ARRANGED,\n</b><br><b>Our Website address, www.capricorncars.co.uk\n<br>PHONE CAR SALES * 01244-818992 \n<br>Glyn Mobile 07859 069461&nbsp;</b><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.capricorncars.co.uk/Pages/default.aspx\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(40, 50, 78);\"></span>HOME PAGE</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://form.jotformeu.com/70632972617360\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(40, 50, 78);\"></span>Contact us here</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://ebayshowroom.ebaymotorspro.co.uk/emp/showroom.html?cid=H8WENNQYZtmf%2FXEoRBdvwA%3D%3D&amp;s=0\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"etl-icon icon-attachment mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(0, 0, 0);\"></span>Capricorn cars eBay show room</a>",
           "_tags": [
@@ -106,11 +106,9 @@
               "font-size": "22px"
             },
             ".mbr-section-title": {
-              "text-align": "center",
-              "font-family": "'PT Sans Narrow', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700",
-              "font-size": "72px",
-              "color": "#efefef"
+              "text-align": "right",
+              "font-family": "'Yanone Kaffeesatz', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700"
             },
             ".btn": {
               "font-size": "13px",
@@ -137,7 +135,7 @@
             "vkontakte": false,
             "odnoklassniki": false
           },
-          "text": "Welcome to our new in stock page. \n<div><br></div><div>Please note this website is under construction by our admin.</div><div>Capricorn car sales would like to say sorry for the delay in stock pics all new updates coming soon. \n</div><div>At Capricorn cars we are proud to have helped 1000's of customers over the year's get into their new used low millage car quickly, easily and hassle free, \n</div><div><br></div><div>Please click or tap the eBay show room tab above to view car full details  \n</div><div>low millage cars now in stock. \n</div><div>Thank you.</div>",
+          "text": "Welcome to our new in stock page.<br>www.capricorncars.co.uk<br> \n<div><br></div><div>Please note this website is under construction by our admin.</div><div>Capricorn car sales would like to say sorry for the delay in stock pics all new updates coming soon.</div><br><div> \n</div><div>At Capricorn cars we are proud to have helped 1000's of customers over the year's get into their new used low millage car quickly, easily and hassle free, </div><div>Finance avaiabile on reqest.</div><div><br></div><div>Please click or tap the eBay show room tab above to view all car full details  \n</div><div>low millage cars now in stock. \n</div><div>Thank you.</div>",
           "_tags": [
             "Theme"
           ],
@@ -145,12 +143,12 @@
           "_anchor": "social-buttons1-o",
           "_styles": {
             ".mbr-section-title DIV": {
-              "font-size": "20px",
+              "font-size": "22px",
               "color": "#efefef"
             },
             ".mbr-section-title": {
               "font-size": "32px",
-              "color": "#ffffff"
+              "color": "#cccccc"
             }
           }
         },
@@ -675,13 +673,7 @@
               "text-align": "center"
             },
             ".mbr-section-subtitle": {
-              "color": "#efefef",
-              "font-size": "22px"
-            },
-            ".mbr-section-subtitle SPAN": {
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-size": "24px"
+              "color": "#efefef"
             }
           },
           "_params": {
@@ -691,7 +683,7 @@
             "bgColor": "#28324e"
           },
           "title": "",
-          "meta": "On behalf of Capricorrn car sales.<br>&nbsp;Built with Mobirise 4.23 by&nbsp;<a href=\"https://form.jotformeu.com/72831802993362\" target=\"_blank\" class=\"text-white\">A.Cross Microsoft &nbsp;365 small business websites </a>U.K <br>copy rights now apply 20017.&nbsp;<br><a href=\"https://form.jotformeu.com/72831802993362\" target=\"_blank\">Website Build For You.</a><br>Click or Tap for &nbsp;<a href=\"https://form.jotformeu.com/72831802993362\" target=\"_blank\">Website Design Request Form</a><br>WWW.your business domaine.com<br><a href=\"https://form.jotformeu.com/72831802993362\" target=\"_blank\"><br></a>Owner of <a href=\"http://www.capricorncars.co.uk/Pages/default.aspx\" target=\"_blank\"><b style=\"font-style: normal;\">www.capricorncars.co.uk</b></a> Mr Glyn Thomas<br><span style=\"font-style: normal;\">Business Address,</span><br>Capricorn Car Sales, Bumblebee Garage Church Street ,Connahs Quay, Deeside, Flintshire ,\nCH5-4AR<br> &nbsp;Call 01244-818-992<br>",
+          "meta": "On behalf of Capricorrn car sales.<br>&nbsp;Built by&nbsp;<a href=\"https://form.jotformeu.com/72831802993362\" target=\"_blank\" class=\"text-white\">A.CROSS 365 small business websites </a>U.K copy rights now apply 20017.&nbsp;<br>WWW.your business domaine.com<br><a href=\"https://form.jotformeu.com/72831802993362\" target=\"_blank\">Website Build For You Website Design Request Form</a><br><br>Owner of capricorn car sales Mr Glyn Thomas in Deeside Flintshire Call 01244-818-992<br>",
           "_tags": [
             "Theme"
           ],

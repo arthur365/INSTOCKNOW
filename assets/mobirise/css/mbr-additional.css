@@ -1,9 +1,8 @@
-@import url(https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700);
+@import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
-
 
 
 
@@ -424,22 +423,20 @@ h6,
   font-size: 22px;
 }
 #header2-6 .mbr-section-title {
-  text-align: center;
-  font-family: 'PT Sans Narrow', sans-serif;
-  font-size: 72px;
-  color: #efefef;
+  text-align: right;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 #header2-6 .btn {
   font-size: 13px;
   font-family: 'Oswald', sans-serif;
 }
 #social-buttons1-o .mbr-section-title DIV {
-  font-size: 20px;
+  font-size: 22px;
   color: #efefef;
 }
 #social-buttons1-o .mbr-section-title {
   font-size: 32px;
-  color: #ffffff;
+  color: #cccccc;
 }
 #gallery3-8 .mbr-gallery-item > div > span {
   font-size: 12px;
@@ -530,9 +527,4 @@ h6,
 }
 #header3-k .mbr-section-subtitle {
   color: #efefef;
-  font-size: 22px;
-}
-#header3-k .mbr-section-subtitle SPAN {
-  font-family: 'Oswald', sans-serif;
-  font-size: 24px;
 }
