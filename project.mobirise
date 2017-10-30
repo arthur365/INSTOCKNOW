@@ -675,6 +675,11 @@
             ".mbr-section-subtitle": {
               "color": "#efefef",
               "font-size": "22px"
+            },
+            ".mbr-section-subtitle SPAN": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "24px"
             }
           },
           "_params": {
@@ -684,7 +689,7 @@
             "bgColor": "#28324e"
           },
           "title": "",
-          "meta": "On behalf of Capricorrn car sales.<br>&nbsp;Built with Mobirise 4.23 by&nbsp;<a href=\"https://form.jotformeu.com/72831802993362\" target=\"_blank\" class=\"text-white\">A.Cross Microsoft &nbsp;365 small business websites </a>U.K <br>copy rights now apply 20017.&nbsp;<br><a href=\"https://form.jotformeu.com/72831802993362\" target=\"_blank\">Website Build For You.</a><br>Click or Tap for &nbsp;<a href=\"https://form.jotformeu.com/72831802993362\" target=\"_blank\">Website Design Request Form</a><br>WWW.your business domaine.com<br><br><a href=\"https://form.jotformeu.com/72831802993362\" target=\"_blank\"><br></a>Owner of capricorn car sales Mr Glyn Thomas in Deeside Flintshire Call 01244-818-992<br>",
+          "meta": "On behalf of Capricorrn car sales.<br>&nbsp;Built with Mobirise 4.23 by&nbsp;<a href=\"https://form.jotformeu.com/72831802993362\" target=\"_blank\" class=\"text-white\">A.Cross Microsoft &nbsp;365 small business websites </a>U.K <br>copy rights now apply 20017.&nbsp;<br><a href=\"https://form.jotformeu.com/72831802993362\" target=\"_blank\">Website Build For You.</a><br>Click or Tap for &nbsp;<a href=\"https://form.jotformeu.com/72831802993362\" target=\"_blank\">Website Design Request Form</a><br>WWW.your business domaine.com<br><a href=\"https://form.jotformeu.com/72831802993362\" target=\"_blank\"><br></a>Owner of <a href=\"http://www.capricorncars.co.uk/Pages/default.aspx\" target=\"_blank\"><b style=\"font-style: normal;\">www.capricorncars.co.uk</b></a> Mr Glyn Thomas<br><span style=\"font-style: normal;\">Business Address,</span><br>Capricorn Car Sales, Bumblebee Garage Church Street ,Connahs Quay, Deeside, Flintshire ,\nCH5-4AR<br> &nbsp;Call 01244-818-992<br>",
           "_tags": [
             "Theme"
           ],

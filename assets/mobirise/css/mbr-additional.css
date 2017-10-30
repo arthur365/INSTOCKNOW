@@ -8,6 +8,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -528,4 +529,8 @@ h6,
 #header3-k .mbr-section-subtitle {
   color: #efefef;
   font-size: 22px;
+}
+#header3-k .mbr-section-subtitle SPAN {
+  font-family: 'Oswald', sans-serif;
+  font-size: 24px;
 }
