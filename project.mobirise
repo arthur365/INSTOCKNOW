@@ -6,7 +6,7 @@
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
-        "primaryColor": "#2b0680",
+        "primaryColor": "#c1c1c1",
         "secondaryColor": "#bfcecb",
         "successColor": "#90a878",
         "infoColor": "#2969b0",
@@ -21,13 +21,13 @@
         "isRtl": false
       },
       "additionalSetColors": [
+        "#959ef1",
+        "#ef46de",
         "#7e671d",
         "#645523",
         "#b4a2a2",
         "#8c8c8c",
-        "#7b9df1",
-        "#ec0f0c",
-        "#dfc499"
+        "#7b9df1"
       ]
     },
     "versionFirst": "4.2.3",
@@ -645,7 +645,7 @@
               "newWindow": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://arthur365.github.io/INSTOCKNOW/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">www.capricorncars.co.uk Capricorn Car Sales in Deeside North Wales<br>Just off the Flintshire Bridge.<br></a>",
+          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://arthur365.github.io/INSTOCKNOW/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">www.capricorncars.co.uk Capricorn Car Sales in Deeside North Wales<br>Just off the Flintshire Bridge.<br></a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-g"
         },
