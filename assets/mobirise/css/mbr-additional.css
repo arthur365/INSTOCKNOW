@@ -1,8 +1,9 @@
-@import url(https://fonts.googleapis.com/css?family=Slabo+27px);
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Slabo+27px);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
 
 
 
@@ -422,16 +423,21 @@ h6,
 #header2-6 .mbr-section-text {
   text-align: left;
   font-size: 22px;
+  color: #efd386;
+  font-family: 'Oswald', sans-serif;
 }
 #header2-6 .mbr-section-title {
   text-align: center;
   font-family: 'Slabo 27px', serif;
   font-size: 60px;
-  color: #cccccc;
+  color: #d2ba79;
 }
 #header2-6 .btn {
   font-size: 13px;
   font-family: 'Oswald', sans-serif;
+}
+#header2-6 .mbr-section-text B {
+  color: #dfc499;
 }
 #social-buttons1-o .mbr-section-title DIV {
   font-size: 20px;

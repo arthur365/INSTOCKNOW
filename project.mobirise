@@ -24,7 +24,10 @@
         "#b4a2a2",
         "#8c8c8c",
         "#7b9df1",
-        "#ec0f0c"
+        "#ec0f0c",
+        "#dfc499",
+        "#efd386",
+        "#d2ba79"
       ]
     },
     "versionFirst": "4.2.3",
@@ -93,7 +96,7 @@
             }
           },
           "title": "Welcome to Capricorn Car Sales www.capricorncars.co.uk&nbsp;<br>New In Stock Page.<br><br>",
-          "text": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Opening Hours :&nbsp;<br>\n<br><b>Monday 09:30 AM to 05:30 PM\n<br>Tuesday 09:30 AM to 05:30 PM\n<br>Wednesday 09:30 AM to 05:30 PM\n<br>Thursday 09:30 AM to 05:30 PM\n<br>Friday 09:30 AM to 05:30 PM\n<br>Saturday 10:30 AM to 04:00 PM\n<br>Sunday 11:30 AM to 03:00 PM\n<br></b><br><b>AFTER HOURS :APOINTMENTS ARRANGED,\n</b><br><b>Our Website address, www.capricorncars.co.uk\n<br>PHONE CAR SALES * 01244-818992 \n<br>Glyn Mobile 07859 069461&nbsp;</b><br>",
+          "text": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Opening Hours :&nbsp;<br>\n<br><b>Monday 09:30 AM to 05:30 PM\n<br>Tuesday 09:30 AM to 05:30 PM\n<br>Wednesday 09:30 AM to 05:30 PM\n<br>Thursday 09:30 AM to 05:30 PM\n<br>Friday 09:30 AM to 05:30 PM\n<br>Saturday 10:30 AM to 04:00 PM\n<br>Sunday 11:30 AM to 03:00 PM\n<br></b><b>AFTER HOURS :APOINTMENTS ARRANGED,\n</b><br><b>Our Website address, www.capricorncars.co.uk\n<br>PHONE CAR SALES * 01244-818992 \n<br>Glyn Mobile 07859 069461 </b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Finance available on most cars<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.capricorncars.co.uk/Pages/default.aspx\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(40, 50, 78);\"></span>HOME PAGE</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://form.jotformeu.com/70632972617360\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(40, 50, 78);\"></span>Contact us here</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://ebayshowroom.ebaymotorspro.co.uk/emp/showroom.html?cid=H8WENNQYZtmf%2FXEoRBdvwA%3D%3D&amp;s=0\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"etl-icon icon-attachment mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(0, 0, 0);\"></span>Capricorn cars eBay show room</a>",
           "_tags": [
             "Theme"
@@ -103,19 +106,25 @@
           "_styles": {
             ".mbr-section-text": {
               "text-align": "left",
-              "font-size": "22px"
+              "font-size": "22px",
+              "color": "#efd386",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             },
             ".mbr-section-title": {
               "text-align": "center",
               "font-family": "'Slabo 27px', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
               "font-size": "60px",
-              "color": "#cccccc"
+              "color": "#d2ba79"
             },
             ".btn": {
               "font-size": "13px",
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            ".mbr-section-text B": {
+              "color": "#dfc499"
             }
           }
         },
