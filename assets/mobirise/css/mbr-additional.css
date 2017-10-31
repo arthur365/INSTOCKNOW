@@ -456,6 +456,25 @@ h6,
 #form1-a .btn {
   font-size: 14px;
 }
+#social-buttons2-9 .mbr-section-title,
+#social-buttons2-9 .btn-social {
+  color: #232323;
+}
+#social-buttons2-9 .mbr-section-title {
+  color: #3d8eb9;
+}
+#header3-k .mbr-section-title,
+#header3-k .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-k .mbr-section-subtitle {
+  color: #efefef;
+  font-size: 22px;
+}
+#header3-k .mbr-section-subtitle SPAN {
+  font-family: 'Oswald', sans-serif;
+  font-size: 24px;
+}
 #ext_menu-g .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -516,23 +535,4 @@ h6,
 #ext_menu-g .link[aria-expanded="true"],
 #ext_menu-g .dropdown-item[aria-expanded="true"] {
   color: #c1c1c1!important;
-}
-#social-buttons2-9 .mbr-section-title,
-#social-buttons2-9 .btn-social {
-  color: #232323;
-}
-#social-buttons2-9 .mbr-section-title {
-  color: #3d8eb9;
-}
-#header3-k .mbr-section-title,
-#header3-k .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-k .mbr-section-subtitle {
-  color: #efefef;
-  font-size: 22px;
-}
-#header3-k .mbr-section-subtitle SPAN {
-  font-family: 'Oswald', sans-serif;
-  font-size: 24px;
 }
