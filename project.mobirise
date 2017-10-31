@@ -129,41 +129,6 @@
           }
         },
         {
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/banner-capo-640x199.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#000000",
-            "overlay": true,
-            "overlayColor": "#222222",
-            "overlayOpacity": 0.5,
-            "facebook": false,
-            "twitter": false,
-            "google": false,
-            "vkontakte": false,
-            "odnoklassniki": false
-          },
-          "text": "<div>Please note this website is under construction by our admin.<br></div><div>&nbsp;All In stock pics coming soon. \n</div><div>At Capricorn cars we are proud to have helped 1000's of customers over the year's get into their new used low millage car quickly, easily and hassle free, \n</div><div><br></div><div>Please click or tap the eBay show room tab above to view car full details  \n</div><div>low millage cars now in stock. \n</div><div>Thank you.</div>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "social-buttons1",
-          "_anchor": "social-buttons1-o",
-          "_styles": {
-            ".mbr-section-title DIV": {
-              "font-size": "20px",
-              "color": "#efefef"
-            },
-            ".mbr-section-title": {
-              "font-size": "32px",
-              "color": "#ffffff"
-            }
-          }
-        },
-        {
           "_inherit": "gallery1",
           "_params": {
             "showBullets": true,
@@ -537,6 +502,17 @@
                 "thumb": "@PROJECT_PATH@/assets/images/peugeot-3008-crossover-1.6e-hdi-115bhp-fap-egc-2013-active-2324-1600x1199-800x599-800x599.jpg",
                 "alt": "",
                 "caption": "",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/20161119-742x416.png",
+                "thumb": "@PROJECT_PATH@/assets/images/20161119-742x416-742x416.png",
+                "alt": "",
+                "caption": "CALL OR CONTACT <br>&nbsp;CAR SALES",
                 "active": true
               }
             ]
@@ -550,7 +526,8 @@
           "_anchor": "gallery3-8",
           "_styles": {
             ".mbr-gallery-item > div > span": {
-              "font-size": "12px"
+              "font-size": "16px",
+              "text-align": "center"
             }
           }
         },

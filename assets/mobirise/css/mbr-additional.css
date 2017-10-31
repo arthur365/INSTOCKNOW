@@ -433,16 +433,9 @@ h6,
 #header2-6 .mbr-section-text B {
   color: #cccccc;
 }
-#social-buttons1-o .mbr-section-title DIV {
-  font-size: 20px;
-  color: #efefef;
-}
-#social-buttons1-o .mbr-section-title {
-  font-size: 32px;
-  color: #ffffff;
-}
 #gallery3-8 .mbr-gallery-item > div > span {
-  font-size: 12px;
+  font-size: 16px;
+  text-align: center;
 }
 #form1-a .form-control-label {
   color: #ffffff;
