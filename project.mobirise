@@ -21,13 +21,13 @@
         "isRtl": false
       },
       "additionalSetColors": [
+        "#222222",
         "#959ef1",
         "#ef46de",
         "#7e671d",
         "#645523",
         "#b4a2a2",
-        "#8c8c8c",
-        "#7b9df1"
+        "#8c8c8c"
       ]
     },
     "versionFirst": "4.2.3",
@@ -66,7 +66,7 @@
             },
             "overlay": true,
             "overlayColor": "#000000",
-            "overlayOpacity": "0.4"
+            "overlayOpacity": "0.6"
           },
           "media": {
             "image": {
@@ -95,7 +95,7 @@
               "newWindow": false
             }
           },
-          "title": "Welcome to Capricorn Car Sales&nbsp;<br>New In Stock Page.<br><br>",
+          "title": "<div>Welcome to Capricorn Car Sales&nbsp;<br>New In Stock Page.<br><br></div>",
           "text": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Opening Hours :&nbsp;<br>\n<br><b>Monday 09:30 AM to 05:30 PM\n<br>Tuesday 09:30 AM to 05:30 PM\n<br>Wednesday 09:30 AM to 05:30 PM\n<br>Thursday 09:30 AM to 05:30 PM\n<br>Friday 09:30 AM to 05:30 PM\n<br>Saturday 10:30 AM to 04:00 PM\n<br>Sunday 11:30 AM to 03:00 PM\n<br></b><b>AFTER HOURS :APOINTMENTS ARRANGED,\n</b><br><b>Our Website address, www.capricorncars.co.uk\n<br>PHONE CAR SALES * 01244-818992 \n<br>Glyn Mobile 07859 069461 </b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Finance available on most cars. Part X welcome<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"http://www.capricorncars.co.uk/Pages/default.aspx\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(40, 50, 78);\"></span>HOME PAGE</a> <a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://form.jotformeu.com/70632972617360\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(40, 50, 78);\"></span>Contact us here</a> <a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://ebayshowroom.ebaymotorspro.co.uk/emp/showroom.html?cid=H8WENNQYZtmf%2FXEoRBdvwA%3D%3D&amp;s=0\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"etl-icon icon-attachment mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(0, 0, 0);\"></span>Capricorn cars eBay show room</a>",
           "_tags": [
@@ -130,15 +130,15 @@
         },
         {
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "0",
             "paddingBottom": "0",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/banner-capo-640x199.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#000000",
-            "overlay": false,
-            "overlayColor": "#222",
+            "overlay": true,
+            "overlayColor": "#222222",
             "overlayOpacity": 0.5,
             "facebook": false,
             "twitter": false,
@@ -146,7 +146,7 @@
             "vkontakte": false,
             "odnoklassniki": false
           },
-          "text": "Welcome to our new in stock page. \n<div><br></div><div>Please note this website is under construction by our admin.</div><div>&nbsp;All In stock pics coming soon. \n</div><div>At Capricorn cars we are proud to have helped 1000's of customers over the year's get into their new used low millage car quickly, easily and hassle free, \n</div><div><br></div><div>Please click or tap the eBay show room tab above to view car full details  \n</div><div>low millage cars now in stock. \n</div><div>Thank you.</div>",
+          "text": "<div>Please note this website is under construction by our admin.<br></div><div>&nbsp;All In stock pics coming soon. \n</div><div>At Capricorn cars we are proud to have helped 1000's of customers over the year's get into their new used low millage car quickly, easily and hassle free, \n</div><div><br></div><div>Please click or tap the eBay show room tab above to view car full details  \n</div><div>low millage cars now in stock. \n</div><div>Thank you.</div>",
           "_tags": [
             "Theme"
           ],
@@ -708,7 +708,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"http://www.capricorncars.co.uk/Pages/default.aspx\" target=\"_blank\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">New Item</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">New Item</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://form.jotformeu.com/70632972617360\">CONTACT US HERE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://arthur365.github.io/INSTOCKNOW/\" target=\"_blank\">IN STOCK NOW</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"http://www.capricorncars.co.uk/Pages/default.aspx\" target=\"_blank\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">New Item</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">New Item</a></div></div></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://arthur365.github.io/INSTOCKNOW/\" target=\"_blank\">IN STOCK NOW</a></li>",
           "_tags": [
             "Theme"
           ],
