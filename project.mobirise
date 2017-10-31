@@ -21,13 +21,13 @@
         "isRtl": false
       },
       "additionalSetColors": [
+        "#f14cda",
         "#222222",
         "#959ef1",
         "#ef46de",
         "#7e671d",
         "#645523",
-        "#b4a2a2",
-        "#8c8c8c"
+        "#b4a2a2"
       ]
     },
     "versionFirst": "4.2.3",
@@ -618,14 +618,16 @@
               "color": "#232323"
             },
             ".mbr-section-title": {
-              "color": "#3d8eb9"
+              "color": "#f14cda",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             }
           },
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "3",
             "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1625x1080.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#b4a2a2",
@@ -633,8 +635,8 @@
             "overlayColor": "#28324e",
             "overlayOpacity": "0.8"
           },
-          "text": "FOLLOW US",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(61, 142, 185);\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(61, 142, 185);\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-googleplus mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(61, 142, 185);\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(61, 142, 185);\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(61, 142, 185);\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-pinterest mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(61, 142, 185);\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"http://mobirise.tumblr.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-tumblr mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(61, 142, 185);\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(61, 142, 185);\"></span></a>   ",
+          "text": "Wan't to sell your car ? Upload your car pic <br><br><a href=\"https://form.jotformeu.com/70513931462351\" target=\"_blank\">CLICK OR TAP HERE</a>&nbsp;<br><br>FOLLOW US",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(239, 70, 222);\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(239, 70, 222);\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-googleplus mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(239, 70, 222);\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(239, 70, 222);\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(239, 70, 222);\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-pinterest mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(239, 70, 222);\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"http://mobirise.tumblr.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-tumblr mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(239, 70, 222);\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(239, 70, 222);\"></span></a>   ",
           "_tags": [
             "Theme"
           ],

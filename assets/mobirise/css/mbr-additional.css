@@ -10,6 +10,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -454,7 +455,8 @@ h6,
   color: #232323;
 }
 #social-buttons2-9 .mbr-section-title {
-  color: #3d8eb9;
+  color: #f14cda;
+  font-family: 'Oswald', sans-serif;
 }
 #header3-k .mbr-section-title,
 #header3-k .mbr-section-subtitle {
