@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "4.2.3",
-    "uniqCompNum": 39,
+    "uniqCompNum": 40,
     "versionPublish": "4.2.3",
     "favicon": "@PROJECT_PATH@/assets/images/j2tbo9y-128x96.png",
     "noImageResize": ""
@@ -132,15 +132,26 @@
           "_inherit": "gallery1",
           "_params": {
             "showBullets": true,
-            "fullWidth": true,
+            "fullWidth": false,
             "spacing": 1,
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "0",
+            "paddingBottom": "2",
             "filterBgColor": true,
             "bgColor": "#000000",
             "showText": true,
             "filter": false,
             "images": [
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/capture-office-at-cap-776x576.png",
+                "thumb": "@PROJECT_PATH@/assets/images/capture-office-at-cap-776x576-776x576.png",
+                "alt": "",
+                "caption": "",
+                "active": true
+              },
               {
                 "tags": "Awesome",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -503,17 +514,6 @@
                 "alt": "",
                 "caption": "",
                 "active": false
-              },
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/20161119-742x416.png",
-                "thumb": "@PROJECT_PATH@/assets/images/20161119-742x416-742x416.png",
-                "alt": "",
-                "caption": "CALL OR CONTACT <br>&nbsp;CAR SALES",
-                "active": true
               }
             ]
           },
