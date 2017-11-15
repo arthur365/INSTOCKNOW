@@ -432,7 +432,10 @@ h6,
   font-family: 'Oswald', sans-serif;
 }
 #header2-6 .mbr-section-text B {
-  color: #cccccc;
+  color: #c1c1c1;
+}
+#header2-6 .mbr-section-text I {
+  color: #c1c1c1;
 }
 #gallery3-8 .mbr-gallery-item > div > span {
   font-size: 16px;
