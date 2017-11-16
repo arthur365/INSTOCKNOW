@@ -417,8 +417,8 @@ h6,
 }
 #header2-6 .mbr-section-text {
   text-align: left;
-  font-size: 22px;
-  color: #cccccc;
+  font-size: 23px;
+  color: #c0a375;
   font-family: 'Oswald', sans-serif;
 }
 #header2-6 .mbr-section-title {
@@ -432,10 +432,14 @@ h6,
   font-family: 'Oswald', sans-serif;
 }
 #header2-6 .mbr-section-text B {
-  color: #c1c1c1;
+  color: #c0a375;
 }
 #header2-6 .mbr-section-text I {
   color: #c1c1c1;
+}
+#header2-6 .mbr-section-title DIV {
+  text-align: center;
+  color: #c0a375;
 }
 #gallery3-8 .mbr-gallery-item > div > span {
   font-size: 16px;
