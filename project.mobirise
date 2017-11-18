@@ -21,13 +21,13 @@
         "isRtl": true
       },
       "additionalSetColors": [
+        "#3a0000",
         "#061540",
         "#f14cda",
         "#222222",
         "#959ef1",
         "#ef46de",
-        "#7e671d",
-        "#645523"
+        "#7e671d"
       ]
     },
     "versionFirst": "4.2.3",
@@ -554,12 +554,12 @@
             "bgColorRadio": false,
             "bgColor": "#cccccc",
             "overlay": true,
-            "overlayColor": "#222222",
-            "overlayOpacity": "0"
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.3"
           },
           "title": "CONTACT US FORM",
           "subtitle": "When we recive your contact we will then contact you back soon after",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"mbri-play mbr-iconfont mbr-iconfont-btn\"></span>CLICK TO SEND</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\"></span>CLICK TO SEND</a>",
           "form": {
             "action": "cross-a@hotmail.co.uk",
             "alerts": {
