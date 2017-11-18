@@ -691,7 +691,7 @@
             "sticky": true,
             "collapsed": false,
             "transparent": true,
-            "bgColor": "#061540",
+            "bgColor": "#000000",
             "fontSize": "1.35",
             "fontName": {},
             "fontColor": "#cccccc",
@@ -728,13 +728,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#020611"
+              "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#051032!important"
+              "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#061540"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
               "color": "#cccccc",
