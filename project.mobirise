@@ -68,7 +68,7 @@
             },
             "overlay": true,
             "overlayColor": "#000000",
-            "overlayOpacity": "0.8"
+            "overlayOpacity": "0.5"
           },
           "media": {
             "image": {
@@ -98,8 +98,8 @@
             }
           },
           "title": "<div>Welcome to Capricorn Car Sales&nbsp;<br>New In Stock Page.<br><br></div>",
-          "text": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Opening Hours :&nbsp;<br>\n<br><b>Monday 09:30 AM to 05:30 PM\n<br>Tuesday 09:30 AM to 05:30 PM\n<br>Wednesday 09:30 AM to 05:30 PM<br>Thursday 09:30 AM to 05:30 PM<br>Friday 09:30 AM to 05:30 PM<br>Saturday 10:30 AM to &nbsp;04:00 PM<br>Sunday &nbsp;11:30 AM to &nbsp;03:00 PM<br></b><b>AFTER HOURS :APOINTMENTS ARRANGED,</b><br><b>Our Website address, www.capricorncars.co.uk\n<br>PHONE CAR SALES * 01244-818992 \n<br>Glyn Mobile 07859 069461</b><br><i><b>Finance available on most cars. Part X welcome</b></i><br><b><i>Please click on Capricorn cars eBay show room link tab to view all our up-to date cars in stock .&nbsp;</i></b><br><b><i>NEW UPDATES NOW DUE FOR THE 17th NOV 2017</i></b>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"http://www.capricorncars.co.uk/Pages/default.aspx\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(40, 50, 78);\"></span>HOME PAGE</a> <a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://form.jotformeu.com/70632972617360\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(40, 50, 78);\"></span>Contact us here</a> <a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://arthur365.github.io/Flintshirewebsites/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"etl-icon icon-attachment mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(0, 0, 0);\"></span>Capricorn cars eBay show room</a>",
+          "text": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Opening Hours :&nbsp;<br>\n<br><b>Monday 09:30 AM to 05:30 PM\n<br>Tuesday 09:30 AM to 05:30 PM\n<br>Wednesday 09:30 AM to 05:30 PM<br>Thursday 09:30 AM to 05:30 PM<br>Friday 09:30 AM to 05:30 PM<br>Saturday 10:30 AM to &nbsp;04:00 PM<br>Sunday &nbsp;11:30 AM to &nbsp;03:00 PM<br></b><b>AFTER HOURS :APOINTMENTS ARRANGED,</b><br><b>Our Website address, www.capricorncars.co.uk\n<br>PHONE CAR SALES * 01244-818992 \n<br>Glyn Mobile 07859 069461</b><br><i><b>Finance available on most cars. Part X welcome</b></i><br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"http://www.capricorncars.co.uk/Pages/default.aspx\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(40, 50, 78);\"></span>HOME PAGE</a> <a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://form.jotformeu.com/70632972617360\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(40, 50, 78);\"></span>Contact us here</a> <a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://arthur365.github.io/Flintshirewebsites/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 31px; color: rgb(0, 0, 0);\"></span>Capricorn cars eBay show room</a>",
           "_tags": [
             "Theme"
           ],
@@ -147,7 +147,7 @@
             "paddingBottom": "1",
             "filterBgColor": true,
             "bgColor": "#000000",
-            "showText": true,
+            "showText": false,
             "filter": false,
             "images": [
               {
@@ -689,9 +689,9 @@
             "hideButtons": true,
             "sticky": true,
             "collapsed": false,
-            "transparent": false,
+            "transparent": true,
             "bgColor": "#282828",
-            "fontSize": "1.2",
+            "fontSize": "1.35",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -717,10 +717,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "1.2rem"
+              "font-size": "1.35rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.300rem"
+              "font-size": "1.462rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -751,7 +751,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-132x101.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-132x101-132x101.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "http://www.capricorncars.co.uk/siteimages/logo.jpg",
@@ -764,7 +764,7 @@
               "name": "mobirise",
               "family": "MobiriseIcons",
               "link": "http://www.capricorncars.co.uk/siteimages/logo.jpg",
-              "size": "",
+              "size": "65",
               "newWindow": true
             }
           },
