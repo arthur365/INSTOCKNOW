@@ -21,17 +21,17 @@
         "isRtl": true
       },
       "additionalSetColors": [
+        "#061540",
         "#f14cda",
         "#222222",
         "#959ef1",
         "#ef46de",
         "#7e671d",
-        "#645523",
-        "#b4a2a2"
+        "#645523"
       ]
     },
     "versionFirst": "4.2.3",
-    "uniqCompNum": 40,
+    "uniqCompNum": 56,
     "versionPublish": "4.2.3",
     "favicon": "@PROJECT_PATH@/assets/images/j2tbo9y-128x96.png",
     "noImageResize": "",
@@ -549,13 +549,13 @@
             "paddingTop": "1",
             "paddingBottom": "4",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1625x1080.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1728x1080.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#cccccc",
             "overlay": true,
-            "overlayColor": "#000000",
-            "overlayOpacity": 0.5
+            "overlayColor": "#222222",
+            "overlayOpacity": "0"
           },
           "title": "CONTACT US FORM",
           "subtitle": "When we recive your contact we will then contact you back soon after",
@@ -628,7 +628,7 @@
               "color": "#232323"
             },
             ".mbr-section-title": {
-              "color": "#f14cda",
+              "color": "#d14841",
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             }
@@ -643,10 +643,10 @@
             "bgColor": "#b4a2a2",
             "overlay": true,
             "overlayColor": "#28324e",
-            "overlayOpacity": "0.4"
+            "overlayOpacity": "0.3"
           },
           "text": "Wan't to sell your car ? Upload your car pic <br><br><a href=\"https://form.jotformeu.com/70513931462351\" target=\"_blank\">CLICK OR TAP HERE</a>&nbsp;<br><br>FOLLOW US",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(239, 70, 222);\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(239, 70, 222);\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-googleplus mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(239, 70, 222);\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(239, 70, 222);\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(239, 70, 222);\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-pinterest mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(239, 70, 222);\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"http://mobirise.tumblr.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-tumblr mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(239, 70, 222);\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(239, 70, 222);\"></span></a>   ",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(149, 158, 241);\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-googleplus mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(149, 158, 241);\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(149, 158, 241);\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(149, 158, 241);\"></span></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"http://mobirise.tumblr.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-tumblr mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(149, 158, 241);\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(149, 158, 241);\"></span></a>   ",
           "_tags": [
             "Theme"
           ],
@@ -691,10 +691,10 @@
             "sticky": true,
             "collapsed": false,
             "transparent": true,
-            "bgColor": "#282828",
+            "bgColor": "#061540",
             "fontSize": "1.35",
             "fontName": {},
-            "fontColor": "#ffffff",
+            "fontColor": "#cccccc",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"http://www.capricorncars.co.uk/Pages/default.aspx\" target=\"_blank\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">New Item</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">New Item</a></div></div></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://arthur365.github.io/INSTOCKNOW/\" target=\"_blank\">IN STOCK NOW</a></li>",
@@ -706,16 +706,17 @@
               "display": "none !important"
             },
             ".navbar-caption": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "24px"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#cccccc"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#cccccc"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#cccccc"
             },
             ".link": {
               "font-size": "1.35rem"
@@ -727,16 +728,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#020611"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#051032!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#061540"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#cccccc",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -769,7 +770,7 @@
               "newWindow": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://arthur365.github.io/INSTOCKNOW/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">www.capricorncars.co.uk in Deeside, North Wales,<br>Just off the Flintshire, Bridge.<br></a>",
+          "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://arthur365.github.io/INSTOCKNOW/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">www.capricorncars.co.uk in Deeside, North Wales,<br>Just off the Flintshire, Bridge.<br></a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-g"
         }
