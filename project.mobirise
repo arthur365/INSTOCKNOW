@@ -134,7 +134,7 @@
             ".mbr-section-title DIV": {
               "text-align": "center",
               "color": "#c0a375",
-              "font-size": "46px"
+              "font-size": "36px"
             }
           }
         },
