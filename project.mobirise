@@ -145,8 +145,9 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "color": "#d14841",
-              "font-size": "24px"
+              "color": "#efefef",
+              "font-size": "24px",
+              "text-align": "center"
             }
           },
           "_params": {

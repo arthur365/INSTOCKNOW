@@ -454,8 +454,9 @@ h6,
   text-align: center;
 }
 #header3-1l .mbr-section-title {
-  color: #d14841;
+  color: #efefef;
   font-size: 24px;
+  text-align: center;
 }
 #gallery3-8 .mbr-gallery-item > div > span {
   font-size: 16px;
