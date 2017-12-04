@@ -575,13 +575,13 @@
             "paddingTop": "1",
             "paddingBottom": "4",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1728x1080.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/20161119.gif",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#cccccc",
             "overlay": true,
             "overlayColor": "#000000",
-            "overlayOpacity": "0.3"
+            "overlayOpacity": "0.7"
           },
           "title": "CONTACT US FORM",
           "subtitle": "When we recive your contact we will then contact you back soon after",
@@ -623,10 +623,12 @@
               "color": "#ffffff"
             },
             ".mbr-section-title": {
-              "color": "#c1c1c1"
+              "color": "#c1c1c1",
+              "text-align": "center"
             },
             "SMALL": {
-              "color": "#efefef"
+              "color": "#efefef",
+              "font-size": "18px"
             },
             ".btn": {
               "font-size": "14px"

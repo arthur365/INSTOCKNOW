@@ -467,9 +467,11 @@ h6,
 }
 #form1-a .mbr-section-title {
   color: #c1c1c1;
+  text-align: center;
 }
 #form1-a SMALL {
   color: #efefef;
+  font-size: 18px;
 }
 #form1-a .btn {
   font-size: 14px;
