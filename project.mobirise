@@ -146,8 +146,8 @@
             },
             ".mbr-section-title": {
               "color": "#efefef",
-              "font-size": "24px",
-              "text-align": "center"
+              "font-size": "16px",
+              "text-align": "left"
             }
           },
           "_params": {
@@ -156,7 +156,7 @@
             "paddingBottom": 1,
             "bgColor": "#000000"
           },
-          "title": ".Dec 2017 Cars in Stock Now",
+          "title": "Please click or tap the Capricorn cars eBay show room tab to view all are up to date cars\n<div>Next up date 1st Jan 2018 cut off date 2nd Jan 2018</div>",
           "meta": "",
           "_tags": [
             "Theme"
