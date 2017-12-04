@@ -32,7 +32,7 @@
     },
     "versionFirst": "4.2.3",
     "uniqCompNum": 58,
-    "versionPublish": "4.2.3",
+    "versionPublish": "4.5.2",
     "favicon": "@PROJECT_PATH@/assets/images/j2tbo9y-128x96.png",
     "noImageResize": "",
     "path": "@PROJECT_PATH@",
@@ -581,7 +581,7 @@
             "bgColor": "#cccccc",
             "overlay": true,
             "overlayColor": "#000000",
-            "overlayOpacity": "0.7"
+            "overlayOpacity": "0.6"
           },
           "title": "CONTACT US FORM",
           "subtitle": "When we recive your contact we will then contact you back soon after",
@@ -662,8 +662,8 @@
             }
           },
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "3",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x837.jpg",
             "parallax": true,
