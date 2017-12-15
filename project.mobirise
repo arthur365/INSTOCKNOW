@@ -99,7 +99,7 @@
           },
           "title": "<div><br></div><div>Welcome to Capricorn Car Sale New In Stock Page<br></div>",
           "text": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Opening Hours :&nbsp;<br>\n<br><b>Monday 09:30 AM to 05:30 PM\n<br>Tuesday 09:30 AM to 05:30 PM\n<br>Wednesday 09:30 AM to 05:30 PM<br>Thursday 09:30 AM to 05:30 PM<br>Friday 09:30 AM to 05:30 PM<br>Saturday 10:30 AM to &nbsp;04:00 PM<br>Sunday &nbsp;11:30 AM to &nbsp;03:00 PM<br></b><b>AFTER HOURS :APOINTMENTS ARRANGED,</b><br><b>Our Website address,&nbsp;</b><b>www.capricorncars.co.uk\n<br>PHONE CAR SALES * 01244-818992 \n<br>&nbsp;Mobile 07859 069461</b><br><i><b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</b></i><i><b>Finance available on most cars. Part X welcome</b></i><br><br>SORRY &nbsp;Now awaiting on new up dates&nbsp;<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://www.capricorncars.co.uk/Pages/default.aspx\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>HOME PAGE</a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://form.jotformeu.com/70632972617360\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>Contact us here</a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://arthur365.github.io/Flintshirewebsites/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-numbered-list mbr-iconfont mbr-iconfont-btn\"></span>Sorry now awaiting on new up dates &nbsp;&nbsp;</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://www.capricorncars.co.uk/Pages/default.aspx\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>HOME PAGE</a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://form.jotformeu.com/70632972617360\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>CONTACT US HERE&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://arthur365.github.io/Flintshirewebsites/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Sorry now awaiting on new up dates &nbsp;&nbsp;</a>",
           "_tags": [
             "Theme"
           ],
@@ -121,7 +121,7 @@
               "color": "#efefef"
             },
             ".btn": {
-              "font-size": "14px",
+              "font-size": "13px",
               "font-family": "'PT Serif', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i"
             },
@@ -156,7 +156,7 @@
             "paddingBottom": 1,
             "bgColor": "#000000"
           },
-          "title": "&nbsp;2018 SORRY LINK NOT WORKING and now awaiting on new up dates&nbsp;",
+          "title": "&nbsp;2018 SORRY &nbsp;Now awaiting on new up dates&nbsp;",
           "meta": "",
           "_tags": [
             "Theme"
@@ -574,11 +574,11 @@
             "labelsColor": "#ffffff",
             "paddingTop": "1",
             "paddingBottom": "4",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/all-cars-imige-1024x640.jpg",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/all%20cars%20imige-1024x640.jpg",
             "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#cccccc",
+            "bgColorRadio": true,
+            "bgColor": "#3a0000",
             "overlay": true,
             "overlayColor": "#000000",
             "overlayOpacity": "0.6"
