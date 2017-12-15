@@ -1,8 +1,10 @@
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Slabo+27px);
 @import url(https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i);
+@import url(https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+
 
 
 
@@ -455,8 +457,9 @@ h6,
 }
 #header3-1l .mbr-section-title {
   color: #efefef;
-  font-size: 16px;
+  font-size: 20px;
   text-align: left;
+  font-family: 'Titillium Web', sans-serif;
 }
 #gallery3-8 .mbr-gallery-item > div > span {
   font-size: 16px;

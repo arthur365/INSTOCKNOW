@@ -146,8 +146,10 @@
             },
             ".mbr-section-title": {
               "color": "#efefef",
-              "font-size": "16px",
-              "text-align": "left"
+              "font-size": "20px",
+              "text-align": "left",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
             }
           },
           "_params": {
@@ -156,7 +158,7 @@
             "paddingBottom": 1,
             "bgColor": "#000000"
           },
-          "title": "&nbsp; NEXT UP DATE 2018 // PLEASE NOTE ALL CARS BELOW ARE NOW OUT OF DATE. 2017// SORRY &nbsp;Now awaiting on new up dates&nbsp;",
+          "title": "&nbsp; &nbsp;2018 NEXT UP DATE 2018 // PLEASE NOTE ALL CARS BELOW ARE NOW OUT OF DATE OR SOLD. 2017// SORRY &nbsp;Now awaiting on new up dates&nbsp;",
           "meta": "",
           "_tags": [
             "Theme"
