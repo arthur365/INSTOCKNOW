@@ -148,20 +148,23 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/tree.gif",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
             "bgVideoRadio": false,
             "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+              "url": "https://www.youtube.com/embed/beuCOjU_aSE?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/watch?v=beuCOjU_aSE",
+              "width": 1280,
+              "height": 720
             },
             "overlay": true,
             "overlayColor": "#000",
             "overlayOpacity": 0.5
           },
           "title": "PAGE NOW UNDER REVIEW",
-          "text": "&nbsp;To renew webpage please contact your admin&nbsp;",
+          "text": "&nbsp; MERRY CHRISTMAS To renew webpage please contact your admin&nbsp;",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"https://arthur365.github.io/Flintshirewebsites/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\"></span>HERE</a>",
           "_tags": [
             "Theme"
