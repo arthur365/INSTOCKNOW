@@ -1,15 +1,6 @@
-@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Slabo+27px);
-@import url(https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i);
-@import url(https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
-
-
-
-
-
-
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 
 
 
@@ -423,82 +414,6 @@ h6,
 .mbr-gallery-filter li:hover {
   color: #ffffff;
 }
-#header2-6 .mbr-section-text {
-  text-align: left;
-  font-size: 23px;
-  color: #ffffff;
-  font-family: 'Oswald', sans-serif;
-}
-#header2-6 .mbr-section-title {
-  text-align: center;
-  font-family: 'Slabo 27px', serif;
-  font-size: 60px;
-  color: #efefef;
-}
-#header2-6 .btn {
-  font-size: 13px;
-  font-family: 'PT Serif', serif;
-}
-#header2-6 .mbr-section-text B {
-  color: #ffffff;
-  font-size: 15px;
-}
-#header2-6 .mbr-section-text I {
-  color: #c1c1c1;
-}
-#header2-6 .mbr-section-title DIV {
-  text-align: center;
-  color: #c0a375;
-  font-size: 36px;
-}
-#header3-1l .mbr-section-title,
-#header3-1l .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-1l .mbr-section-title {
-  color: #efefef;
-  font-size: 20px;
-  text-align: left;
-  font-family: 'Titillium Web', sans-serif;
-}
-#gallery3-8 .mbr-gallery-item > div > span {
-  font-size: 16px;
-  text-align: center;
-}
-#form1-a .form-control-label {
-  color: #ffffff;
-}
-#form1-a .mbr-section-title {
-  color: #c1c1c1;
-  text-align: center;
-}
-#form1-a SMALL {
-  color: #efefef;
-  font-size: 18px;
-}
-#form1-a .btn {
-  font-size: 14px;
-}
-#social-buttons2-9 .mbr-section-title,
-#social-buttons2-9 .btn-social {
-  color: #232323;
-}
-#social-buttons2-9 .mbr-section-title {
-  color: #d14841;
-  font-family: 'Oswald', sans-serif;
-}
-#header3-k .mbr-section-title,
-#header3-k .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-k .mbr-section-subtitle {
-  color: #efefef;
-  font-size: 16px;
-}
-#header3-k .mbr-section-subtitle SPAN {
-  font-family: 'Oswald', sans-serif;
-  font-size: 24px;
-}
 #ext_menu-g .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -518,11 +433,11 @@ h6,
   color: #cccccc;
 }
 #ext_menu-g .link {
-  font-size: 1.35rem;
+  font-size: 1.9rem;
 }
 #ext_menu-g .dropdown-item,
 #ext_menu-g .nav-dropdown-sm .link {
-  font-size: 1.462rem;
+  font-size: 2.058rem;
 }
 #ext_menu-g .link:hover,
 #ext_menu-g .dropdown-item:hover,
