@@ -6,7 +6,7 @@
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
-        "primaryColor": "#ffffff",
+        "primaryColor": "#fac51c",
         "secondaryColor": "#bfcecb",
         "successColor": "#90a878",
         "infoColor": "#2969b0",
@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "4.2.3",
-    "uniqCompNum": 59,
+    "uniqCompNum": 60,
     "versionPublish": "4.5.2",
     "favicon": "@PROJECT_PATH@/assets/images/j2tbo9y-128x96.png",
     "noImageResize": "",
@@ -141,36 +141,64 @@
           "_anchor": "ext_menu-g"
         },
         {
+          "_inherit": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-text": {
+              "color": "#fac51c"
+            }
+          },
           "_params": {
             "showTitle": true,
             "showText": true,
             "showButtons": true,
+            "inverse": true,
             "showArrow": true,
-            "contentAlign": "center",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/tree.gif",
+            "imageSize": 50,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
             "parallax": true,
             "bgColorRadio": false,
-            "bgColor": "#a07e49",
-            "bgVideoRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": true,
             "bgVideo": {
-              "url": "https://www.youtube.com/embed/beuCOjU_aSE?rel=0&amp;showinfo=0&autoplay=0&loop=0",
-              "rawUrl": "https://www.youtube.com/watch?v=beuCOjU_aSE",
+              "url": "https://www.youtube.com/embed/RamZajQNZTM?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/watch?v=RamZajQNZTM",
               "width": 1280,
               "height": 720
             },
             "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.5
+            "overlayColor": "#3a0000",
+            "overlayOpacity": "0.5"
           },
-          "title": "PAGE NOW UNDER REVIEW",
-          "text": "&nbsp; MERRY CHRISTMAS To renew webpage please contact your admin&nbsp;",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"https://arthur365.github.io/Flintshirewebsites/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\"></span>HERE</a>",
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=RamZajQNZTM",
+              "aspectratio": "16:9",
+              "autoplay": "on",
+              "loop": "on"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "SORRY THIS PAGE IS NOW UNDER REVIEW<br><br>",
+          "text": "PLEASE CONTACT YOUR ADMIN FOR MORE INFO",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning-outline btn-warning\" href=\"https://arthur365.github.io/Flintshirewebsites/\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\"></span>CONTACT US HERE</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "header1",
-          "_anchor": "header1-1m"
+          "_name": "header6",
+          "_anchor": "header6-1n"
         }
       ]
     }
