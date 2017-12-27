@@ -144,10 +144,13 @@
           "_inherit": "header2",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "text-align": "left"
             },
             ".mbr-section-text": {
-              "color": "#fac51c"
+              "color": "#fac51c",
+              "font-family": "'Roboto Slab', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700"
             }
           },
           "_params": {
@@ -191,7 +194,7 @@
               "size": 250
             }
           },
-          "title": "SORRY THIS PAGE IS NOW UNDER REVIEW<br><br>",
+          "title": "SORRY THIS PAGE IS NOW UNDER REVIEW Capricorn car sale's<br>",
           "text": "PLEASE CONTACT YOUR ADMIN FOR MORE INFO",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning-outline btn-warning\" href=\"https://arthur365.github.io/Flintshirewebsites/\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\"></span>CONTACT US HERE</a>",
           "_tags": [
