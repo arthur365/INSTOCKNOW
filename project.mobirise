@@ -182,7 +182,6 @@
               "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
             },
             "video": {
-              "active": true,
               "src": "https://www.youtube.com/watch?v=RamZajQNZTM",
               "aspectratio": "16:9",
               "autoplay": "on",
@@ -190,8 +189,12 @@
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-header2",
+              "linkInNewWindow": false,
+              "name": "key",
+              "family": "MobiriseIcons",
               "link": "",
-              "size": 250
+              "size": 250,
+              "active": true
             }
           },
           "title": "SORRY THIS PAGE IS NOW UNDER REVIEW Capricorn car sale's<br>",
