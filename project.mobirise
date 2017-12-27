@@ -61,7 +61,7 @@
             "bgColor": "#000000",
             "fontSize": "1.9",
             "fontName": {},
-            "fontColor": "#cccccc",
+            "fontColor": "#3a0000",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"http://www.capricorncars.co.uk/Pages/default.aspx\" target=\"_blank\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">New Item</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">New Item</a></div></div></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://arthur365.github.io/INSTOCKNOW/\" target=\"_blank\">IN STOCK NOW</a></li>",
@@ -77,13 +77,13 @@
               "font-size": "24px"
             },
             ".navbar-toggler": {
-              "color": "#cccccc"
+              "color": "#3a0000"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#cccccc"
+              "background-color": "#3a0000"
             },
             ".link, .dropdown-item": {
-              "color": "#cccccc"
+              "color": "#3a0000"
             },
             ".link": {
               "font-size": "1.9rem"
@@ -104,7 +104,7 @@
               "background": "#000000"
             },
             ".bg-color.transparent .link": {
-              "color": "#cccccc",
+              "color": "#3a0000",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -119,7 +119,6 @@
           },
           "logo": {
             "image": {
-              "active": true,
               "src": "@PROJECT_PATH@/assets/images/logo-1-132x101.jpg",
               "height": 128,
               "alt": "Mobirise",
@@ -129,11 +128,12 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
               "linkInNewWindow": false,
-              "name": "mobirise",
+              "name": "key",
               "family": "MobiriseIcons",
               "link": "http://www.capricorncars.co.uk/siteimages/logo.jpg",
               "size": "78",
-              "newWindow": true
+              "newWindow": true,
+              "active": true
             }
           },
           "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://arthur365.github.io/INSTOCKNOW/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\"></a>",
