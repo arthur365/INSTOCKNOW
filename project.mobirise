@@ -54,17 +54,17 @@
           "_params": {
             "logo": true,
             "showBrand": true,
-            "hideButtons": true,
+            "hideButtons": false,
             "sticky": true,
             "collapsed": false,
-            "transparent": true,
-            "bgColor": "#000000",
-            "fontSize": "1.9",
+            "transparent": false,
+            "bgColor": "#b8312f",
+            "fontSize": "1.25",
             "fontName": {},
-            "fontColor": "#3a0000",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"http://www.capricorncars.co.uk/Pages/default.aspx\" target=\"_blank\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">New Item</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">New Item</a></div></div></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://arthur365.github.io/INSTOCKNOW/\" target=\"_blank\">IN STOCK NOW</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"http://www.capricorncars.co.uk/Pages/default.aspx\" target=\"_blank\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">New Item</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">New Item</a></div></div></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://arthur365.github.io/INSTOCKNOW/\" target=\"_blank\">IN STOCK NOW</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -77,34 +77,34 @@
               "font-size": "24px"
             },
             ".navbar-toggler": {
-              "color": "#3a0000"
+              "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#3a0000"
+              "background-color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#3a0000"
+              "color": "#ffffff"
             },
             ".link": {
-              "font-size": "1.9rem"
+              "font-size": "1.25rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "2.058rem"
+              "font-size": "1.354rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#000000"
+              "background": "#8f2625"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#000000!important"
+              "background": "#ac2e2c!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#000000"
+              "background": "#b8312f"
             },
             ".bg-color.transparent .link": {
-              "color": "#3a0000",
+              "color": "#ffffff",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -151,6 +151,9 @@
               "color": "#fac51c",
               "font-family": "'Roboto Slab', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700"
+            },
+            ".btn": {
+              "font-size": "16px"
             }
           },
           "_params": {
@@ -159,7 +162,7 @@
             "showButtons": true,
             "inverse": true,
             "showArrow": true,
-            "imageSize": 50,
+            "imageSize": "51",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
             "parallax": true,
@@ -174,7 +177,7 @@
             },
             "overlay": true,
             "overlayColor": "#3a0000",
-            "overlayOpacity": "0.5"
+            "overlayOpacity": "0.4"
           },
           "media": {
             "image": {
@@ -199,7 +202,7 @@
           },
           "title": "SORRY THIS PAGE IS NOW UNDER REVIEW Capricorn car sale's<br>",
           "text": "PLEASE CONTACT YOUR ADMIN FOR MORE INFO",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning-outline btn-warning\" href=\"https://arthur365.github.io/Flintshirewebsites/\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\"></span>CONTACT US HERE</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"https://arthur365.github.io/Flintshirewebsites/\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\"></span>CONTACT US HERE</a>",
           "_tags": [
             "Theme"
           ],
