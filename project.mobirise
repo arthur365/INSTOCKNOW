@@ -6,7 +6,7 @@
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
-        "primaryColor": "#fac51c",
+        "primaryColor": "#ffffff",
         "secondaryColor": "#bfcecb",
         "successColor": "#90a878",
         "infoColor": "#2969b0",
@@ -21,17 +21,17 @@
         "isRtl": true
       },
       "additionalSetColors": [
-        "#160000",
         "#3a0000",
         "#061540",
         "#f14cda",
         "#222222",
         "#959ef1",
-        "#ef46de"
+        "#ef46de",
+        "#7e671d"
       ]
     },
     "versionFirst": "4.2.3",
-    "uniqCompNum": 60,
+    "uniqCompNum": 58,
     "versionPublish": "4.5.2",
     "favicon": "@PROJECT_PATH@/assets/images/j2tbo9y-128x96.png",
     "noImageResize": "",
@@ -50,21 +50,680 @@
       },
       "components": [
         {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "showArrow": true,
+            "imageSize": "20",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1620x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.5"
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/mbr-1625x1080.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "linkInNewWindow": false,
+              "name": "apple",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": "1",
+              "active": true,
+              "color": "",
+              "newWindow": false
+            }
+          },
+          "title": "<div><br></div><div>Welcome to Capricorn Car Sale New In Stock Page<br></div>",
+          "text": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Opening Hours :&nbsp;<br>\n<br><b>Monday 09:30 AM to 05:30 PM\n<br>Tuesday 09:30 AM to 05:30 PM\n<br>Wednesday 09:30 AM to 05:30 PM<br>Thursday 09:30 AM to 05:30 PM<br>Friday 09:30 AM to 05:30 PM<br>Saturday 10:30 AM to &nbsp;04:00 PM<br>Sunday &nbsp;11:30 AM to &nbsp;03:00 PM<br></b><b>AFTER HOURS :APOINTMENTS ARRANGED,</b><br><b>Our Website address, www.capricorncars.co.uk\n<br>PHONE CAR SALES * 01244-818992 \n<br>&nbsp;Mobile 07859 069461</b><br><i><b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</b></i><i><b>Finance available on most cars. Part X welcome</b></i><br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://www.capricorncars.co.uk/Pages/default.aspx\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>HOME PAGE</a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://form.jotformeu.com/70632972617360\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>Contact us here</a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://arthur365.github.io/Flintshirewebsites/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 31px; color: rgb(255, 255, 255);\"></span>Capricorn cars eBay show room</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-6",
+          "_styles": {
+            ".mbr-section-text": {
+              "text-align": "left",
+              "font-size": "23px",
+              "color": "#c0a375",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            ".mbr-section-title": {
+              "text-align": "center",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "font-size": "60px",
+              "color": "#efefef"
+            },
+            ".btn": {
+              "font-size": "14px",
+              "font-family": "'PT Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i"
+            },
+            ".mbr-section-text B": {
+              "color": "#c0a375",
+              "font-size": "22px"
+            },
+            ".mbr-section-text I": {
+              "color": "#c1c1c1"
+            },
+            ".mbr-section-title DIV": {
+              "text-align": "center",
+              "color": "#c0a375",
+              "font-size": "36px"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#efefef",
+              "font-size": "24px",
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#000000"
+          },
+          "title": ".Dec 2017 Cars in Stock Now",
+          "meta": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1l"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": true,
+            "spacing": "1",
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "filterBgColor": true,
+            "bgColor": "#000000",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/capture-office-at-cap-776x576.png",
+                "thumb": "@PROJECT_PATH@/assets/images/capture-office-at-cap-776x576-776x576.png",
+                "alt": "",
+                "caption": "",
+                "active": true
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/ford-mondeo-2.0td-163ps-powershift-2010-titanium-x-tjv-1600x1199.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ford-mondeo-2.0td-163ps-powershift-2010-titanium-x-tjv-1600x1199-800x599.jpg",
+                "alt": "",
+                "caption": "Ford Mondeo 2.0TD ( 163ps ) Powershift 2010 Titanium X",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/ade-yau-1600x1199.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ade-yau-1600x1199-800x599.jpg",
+                "alt": "",
+                "caption": "Audi TT Coupe 1.8 ( 225bhp ) quattro\n<br>",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/alfa-juf-1600x1199.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/alfa-juf-1600x1199-800x599.jpg",
+                "alt": "",
+                "caption": "Alfa Romeo MiTo 1.3JTDm-2 95bhp Sprint\n<br>",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/bm-ujk-1600x1199.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/bm-ujk-1600x1199-800x599.jpg",
+                "alt": "",
+                "caption": "BMW 118 D M SPORT 2012\n<br>",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/citroen-c3-picasso-1600x1199.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/citroen-c3-picasso-1600x1199-800x599.jpg",
+                "alt": "",
+                "caption": "Citroen C3 Picasso 1.6HDi ( 92bhp ) VTR+",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/citroen-ds3-1.6hdi-110-dsport-2010-dhy-1600x1199.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/citroen-ds3-1.6hdi-110-dsport-2010-dhy-1600x1199-800x599.jpg",
+                "alt": "",
+                "caption": "Citroen DS3 1.6HDi 110 DSport 2010",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/fiat-500c-1.2-lounge-convertable-ouw-1600x1199.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/fiat-500c-1.2-lounge-convertable-ouw-1600x1199-800x599.jpg",
+                "alt": "",
+                "caption": "Fiat 500C 1.2 LOUNGE CONVERTABLE",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/ford-fiesta-1.4-2009-zetec-zxk-1600x1199.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ford-fiesta-1.4-2009-zetec-zxk-1600x1199-800x599.jpg",
+                "alt": "",
+                "caption": "Ford Fiesta 1.4 2009 Zetec",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/ford-fiesta-1.6tdci-2009-zetec-s-fem-1600x1199.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ford-fiesta-1.6tdci-2009-zetec-s-fem-1600x1199-800x599.jpg",
+                "alt": "",
+                "caption": "Ford Fiesta 1.6TDCi 2009 Zetec S",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/ford-focus-1.6-100ps-2008-style-akg-1600x1199.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ford-focus-1.6-100ps-2008-style-akg-1600x1199-800x599.jpg",
+                "alt": "",
+                "caption": "Ford Focus 1.6 ( 100ps ) 2008 Style",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/honda-fr-v-2.0i-vtec-sport-2006-uwv-1600x1199.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/honda-fr-v-2.0i-vtec-sport-2006-uwv-1600x1199-800x599.jpg",
+                "alt": "",
+                "caption": "Honda FR-V 2.0i-VTEC Sport 2006",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/hyundai-i10-1.1-comfort-zkc-1600x1199.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/hyundai-i10-1.1-comfort-zkc-1600x1199-800x599.jpg",
+                "alt": "",
+                "caption": "Hyundai i10 1.1 Comfort",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/hyundai-i30-1.6-style-xos-1600x1199.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/hyundai-i30-1.6-style-xos-1600x1199-800x599.jpg",
+                "alt": "",
+                "caption": "Hyundai i30 1.6 Style",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/kia-ceed-1.6crdi-88bhp-gs-uyt-1600x1199.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/kia-ceed-1.6crdi-88bhp-gs-uyt-1600x1199-800x599.jpg",
+                "alt": "",
+                "caption": "Kia ceed 1.6CRDi ( 88bhp ) GS",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/kia-ceed-1.6td-114bhp-2010-2-eac-1600x1199.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/kia-ceed-1.6td-114bhp-2010-2-eac-1600x1199-800x599.jpg",
+                "alt": "",
+                "caption": "Kia ceed 1.6TD ( 114bhp ) 2010 2",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/land-rover-discovery-3-2.7tdv6-commercial-dtn-1600x1199.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/land-rover-discovery-3-2.7tdv6-commercial-dtn-1600x1199-800x599.jpg",
+                "alt": "",
+                "caption": "Land Rover Discovery 3 2.7tdv6 commercial",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/land-rover-freelander-2-2.2td4-auto-2008-hst-eeh-1600x1199.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/land-rover-freelander-2-2.2td4-auto-2008-hst-eeh-1600x1199-800x599.jpg",
+                "alt": "",
+                "caption": "Land Rover Freelander 2 2.2Td4 auto 2008 HST&nbsp;",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/peugeot-107-1.0-12v-allure-2010-vjn-1600x1199.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/peugeot-107-1.0-12v-allure-2010-vjn-1600x1199-800x599.jpg",
+                "alt": "",
+                "caption": "Peugeot 107 1.0 12v Allure 2010",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/vauxhall-opel-corsa-1.2i-16v-85ps-limited-edition-a-c-2013-kxb-1600x1199.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vauxhall-opel-corsa-1.2i-16v-85ps-limited-edition-a-c-2013-kxb-1600x1199-800x599.jpg",
+                "alt": "",
+                "caption": "",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/vauxhall-opel-astra-18i-16v-140ps-sport-hatch-2008-design-tzf-1600x1199.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vauxhall-opel-astra-18i-16v-140ps-sport-hatch-2008-design-tzf-1600x1199-800x599.jpg",
+                "alt": "",
+                "caption": "",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/vauxhall-astravan-1.3cdti-16v-2008-club-hwx-1600x1199.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vauxhall-astravan-1.3cdti-16v-2008-club-hwx-1600x1199-800x599.jpg",
+                "alt": "",
+                "caption": "",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/vauxhall-opel-corsa-1.8i-16v-a-c-2005-sri-sdu-1600x1199.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vauxhall-opel-corsa-1.8i-16v-a-c-2005-sri-sdu-1600x1199-800x599.jpg",
+                "alt": "",
+                "caption": "",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/vauxhall-opel-insignia-1.8i-16v-vvt-2009-exclusiv-whc-1600x1199.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vauxhall-opel-insignia-1.8i-16v-vvt-2009-exclusiv-whc-1600x1199-800x599.jpg",
+                "alt": "",
+                "caption": "",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/vauxhall-opel-insignia-2.0cdti-16v-160ps-2011-sri-nwc-1600x1199.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vauxhall-opel-insignia-2.0cdti-16v-160ps-2011-sri-nwc-1600x1199-800x599.jpg",
+                "alt": "",
+                "caption": "",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/vauxhall-opel-meriva-1.4-16v-140ps-a-c-1398cc-2010-exclusiv-ttx-1600x1199.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vauxhall-opel-meriva-1.4-16v-140ps-a-c-1398cc-2010-exclusiv-ttx-1600x1199-800x599.jpg",
+                "alt": "",
+                "caption": "",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/volkswagen-golf-1.6-fsi-115ps-2008-match-xtl-1600x1199.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/volkswagen-golf-1.6-fsi-115ps-2008-match-xtl-1600x1199-800x599.jpg",
+                "alt": "",
+                "caption": "",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/renault-clio-1.2-16v-75-2009-tomtom-ufd-1600x1199.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/renault-clio-1.2-16v-75-2009-tomtom-ufd-1600x1199-800x599.jpg",
+                "alt": "",
+                "caption": "",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/renault-clio-1.4-16v-98-dynamique-2006-nbx-1600x1200.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/renault-clio-1.4-16v-98-dynamique-2006-nbx-1600x1200-800x600.jpg",
+                "alt": "",
+                "caption": "",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/renault-megane-1.5dci-106-dynamique-yus-1600x1199.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/renault-megane-1.5dci-106-dynamique-yus-1600x1199-800x599.jpg",
+                "alt": "",
+                "caption": "",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/renault-megane-1.6vvt-110-dynamique-dzg-1600x1199.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/renault-megane-1.6vvt-110-dynamique-dzg-1600x1199-800x599.jpg",
+                "alt": "",
+                "caption": "",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/renault-wind-roadster-1.2tce-100-2011-gt-line-wbx-1600x1199.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/renault-wind-roadster-1.2tce-100-2011-gt-line-wbx-1600x1199-800x599.jpg",
+                "alt": "",
+                "caption": "",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/suzuki-grand-vitara-1.9ddis-2007-xvo-1600x1199.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/suzuki-grand-vitara-1.9ddis-2007-xvo-1600x1199-800x599.jpg",
+                "alt": "",
+                "caption": "",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/peugeot-3008-crossover-1.6e-hdi-115bhp-fap-egc-2013-active-2324-1600x1199-800x599.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/peugeot-3008-crossover-1.6e-hdi-115bhp-fap-egc-2013-active-2324-1600x1199-800x599-800x599.jpg",
+                "alt": "",
+                "caption": "",
+                "active": false
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery3",
+          "_anchor": "gallery3-8",
+          "_styles": {
+            ".mbr-gallery-item > div > span": {
+              "font-size": "16px",
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubTitle": true,
+            "labelsColor": "#ffffff",
+            "paddingTop": "1",
+            "paddingBottom": "4",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1728x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#cccccc",
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.3"
+          },
+          "title": "CONTACT US FORM",
+          "subtitle": "When we recive your contact we will then contact you back soon after",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\"></span>CLICK TO SEND</a>",
+          "form": {
+            "action": "cross-a@hotmail.co.uk",
+            "alerts": {
+              "success": "Thanks for filling out form! we will contact you back soon"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-a",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-title": {
+              "color": "#c1c1c1"
+            },
+            "SMALL": {
+              "color": "#efefef"
+            },
+            ".btn": {
+              "font-size": "14px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "googleMap": {
+              "address": "130 Church St, Connah's Quay, Deeside CH5 4AR",
+              "placeId": "ChIJmyLQwmLaekgRS7xQM4czrqQ",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "map1",
+          "_anchor": "map1-h"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#232323"
+            },
+            ".mbr-section-title": {
+              "color": "#d14841",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          },
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "3",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x837.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#b4a2a2",
+            "overlay": true,
+            "overlayColor": "#28324e",
+            "overlayOpacity": "0.3"
+          },
+          "text": "Wan't to sell your car ? Upload your car pic <br><br><a href=\"https://form.jotformeu.com/70513931462351\" target=\"_blank\">CLICK OR TAP HERE</a>&nbsp;<br><br>FOLLOW US",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(149, 158, 241);\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-googleplus mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(149, 158, 241);\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(149, 158, 241);\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(149, 158, 241);\"></span></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"http://mobirise.tumblr.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-tumblr mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(149, 158, 241);\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(149, 158, 241);\"></span></a>   ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-9"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#efefef",
+              "font-size": "16px"
+            },
+            ".mbr-section-subtitle SPAN": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "24px"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#28324e"
+          },
+          "title": "",
+          "meta": "On behalf of Capricorrn car sales.<br>&nbsp;Admin&nbsp;A. Cross Microsoft &nbsp;365 small business websites U.K <br>copy rights now apply 20017.&nbsp;<br>Website Built For You.&nbsp; &amp;&nbsp;&nbsp;<a href=\"https://arthur365.github.io/Flintshirewebsites/\" target=\"_blank\">www.Flintshirewebsites.com</a><br><a href=\"https://form.jotformeu.com/72831802993362\" target=\"_blank\"><br></a>Owner of <a href=\"http://www.capricorncars.co.uk/Pages/default.aspx\" target=\"_blank\"><b style=\"font-style: normal;\">www.capricorncars.co.uk</b></a> Mr Glyn Thomas<br><span style=\"font-style: normal;\">Business Address,</span><br>Capricorn Car Sales, Bumblebee Garage Church Street ,Connahs Quay, Deeside, Flintshire ,\nCH5-4AR<br> &nbsp;Call 01244-818-992&nbsp;<br><a href=\"https://form.jotformeu.com/73075016240345\" target=\"_blank\">Please rate my website!</a><br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-k"
+        },
+        {
           "_inherit": "menu",
           "_params": {
             "logo": true,
             "showBrand": true,
-            "hideButtons": false,
+            "hideButtons": true,
             "sticky": true,
             "collapsed": false,
             "transparent": true,
-            "bgColor": "#b8312f",
-            "fontSize": "1.25",
+            "bgColor": "#000000",
+            "fontSize": "1.35",
             "fontName": {},
-            "fontColor": "#ffffff",
+            "fontColor": "#cccccc",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"http://www.capricorncars.co.uk/Pages/default.aspx\" target=\"_blank\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">New Item</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">New Item</a></div></div></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://arthur365.github.io/INSTOCKNOW/\" target=\"_blank\">IN STOCK NOW</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"http://www.capricorncars.co.uk/Pages/default.aspx\" target=\"_blank\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">New Item</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">New Item</a></div></div></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://arthur365.github.io/INSTOCKNOW/\" target=\"_blank\">IN STOCK NOW</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -77,34 +736,34 @@
               "font-size": "24px"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#cccccc"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#cccccc"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#cccccc"
             },
             ".link": {
-              "font-size": "1.25rem"
+              "font-size": "1.35rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.354rem"
+              "font-size": "1.462rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#8f2625"
+              "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#ac2e2c!important"
+              "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#b8312f"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#cccccc",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -114,100 +773,32 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#fac51c!important"
+              "color": "#ffffff!important"
             }
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-1-132x101.jpg",
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-132x101-132x101.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "http://www.capricorncars.co.uk/siteimages/logo.jpg",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
               "linkInNewWindow": false,
-              "name": "key",
+              "name": "mobirise",
               "family": "MobiriseIcons",
               "link": "http://www.capricorncars.co.uk/siteimages/logo.jpg",
-              "size": "78",
-              "newWindow": true,
-              "active": true
+              "size": "65",
+              "newWindow": true
             }
           },
           "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://arthur365.github.io/INSTOCKNOW/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\"></a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-g"
-        },
-        {
-          "_inherit": "header2",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#ffffff",
-              "text-align": "left"
-            },
-            ".mbr-section-text": {
-              "color": "#fac51c",
-              "font-family": "'Roboto Slab', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700"
-            },
-            ".btn": {
-              "font-size": "16px"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "inverse": true,
-            "showArrow": true,
-            "imageSize": "51",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#2e2e2e",
-            "bgVideoRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/embed/RamZajQNZTM?rel=0&amp;showinfo=0&autoplay=0&loop=0",
-              "rawUrl": "https://www.youtube.com/watch?v=RamZajQNZTM",
-              "width": 1280,
-              "height": 720
-            },
-            "overlay": true,
-            "overlayColor": "#3a0000",
-            "overlayOpacity": "0.4"
-          },
-          "media": {
-            "image": {
-              "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
-            },
-            "video": {
-              "active": true,
-              "src": "https://www.youtube.com/watch?v=RamZajQNZTM",
-              "aspectratio": "16:9",
-              "autoplay": "on",
-              "loop": "on"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
-              "linkInNewWindow": false,
-              "name": "key",
-              "family": "MobiriseIcons",
-              "link": "",
-              "size": 250
-            }
-          },
-          "title": "SORRY THIS PAGE IS NOW UNDER REVIEW Capricorn car sale's<br>",
-          "text": "PLEASE CONTACT YOUR ADMIN FOR MORE INFO",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"https://arthur365.github.io/Flintshirewebsites/\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\"></span>CONTACT US HERE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header6",
-          "_anchor": "header6-1n"
         }
       ]
     }
