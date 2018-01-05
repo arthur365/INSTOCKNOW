@@ -151,12 +151,12 @@
             }
           },
           "_params": {
-            "showMeta": false,
+            "showMeta": true,
             "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingBottom": "2",
             "bgColor": "#000000"
           },
-          "title": ".Dec 2017 Cars in Stock Now",
+          "title": "Sorry just waiting for new stock pics",
           "meta": "",
           "_tags": [
             "Theme"
