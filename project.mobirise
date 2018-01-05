@@ -580,8 +580,8 @@
             "bgColorRadio": false,
             "bgColor": "#cccccc",
             "overlay": true,
-            "overlayColor": "#000000",
-            "overlayOpacity": "0.3"
+            "overlayColor": "#3a0000",
+            "overlayOpacity": "0.6"
           },
           "title": "CONTACT US FORM",
           "subtitle": "When we recive your contact we will then contact you back soon after",
