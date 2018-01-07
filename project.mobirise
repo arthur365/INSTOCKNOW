@@ -21,13 +21,13 @@
         "isRtl": true
       },
       "additionalSetColors": [
+        "#160101",
         "#5c0605",
         "#3a0000",
         "#061540",
         "#f14cda",
         "#222222",
-        "#959ef1",
-        "#ef46de"
+        "#959ef1"
       ]
     },
     "versionFirst": "4.2.3",
@@ -98,7 +98,7 @@
             }
           },
           "title": "<div><br></div><div>Welcome to Capricorn Car Sale New In Stock Page<br></div>",
-          "text": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Opening Hours :&nbsp;<br>\n<br><b>Monday 09:30 AM to 05:30 PM\n<br>Tuesday 09:30 AM to 05:30 PM\n<br>Wednesday 09:30 AM to 05:30 PM<br>Thursday 09:30 AM to 05:30 PM<br>Friday 09:30 AM to 05:30 PM<br>Saturday 10:30 AM to &nbsp;04:00 PM<br>Sunday &nbsp;11:30 AM to &nbsp;03:00 PM<br></b><b>AFTER HOURS :APOINTMENTS ARRANGED,</b><br><b>Our Website address, www.capricorncars.co.uk\n<br>PHONE CAR SALES * 01244-818992 \n<br>&nbsp;Mobile 07859 069461</b><br><i><b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</b></i><i><b>Finance available on most cars. Part X welcome</b></i><br><br>",
+          "text": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Opening Hours :&nbsp;<br>\n<br><b>Monday 09:30 AM to 05:30 PM\n<br>Tuesday 09:30 AM to 05:30 PM\n<br>Wednesday 09:30 AM to 05:30 PM<br>Thursday 09:30 AM to 05:30 PM<br>Friday 09:30 AM to 05:30 PM<br>Saturday 10:30 AM to &nbsp;04:00 PM<br>Sunday &nbsp;11:30 AM to &nbsp;03:00 PM<br></b><b>AFTER HOURS :APOINTMENTS ARRANGED</b><br><b>Our Website address, www.capricorncars.co.uk\n<br>PHONE CAR SALES * 01244-818992 \n<br>&nbsp;Mobile 07859 069461</b><br><i><b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</b></i><i><b>Finance available on most cars. Part X welcome</b></i><br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://www.capricorncars.co.uk/Pages/default.aspx\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>HOME PAGE</a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://form.jotformeu.com/70632972617360\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>Contact us here</a>  ",
           "_tags": [
             "Theme"
@@ -109,7 +109,7 @@
             ".mbr-section-text": {
               "text-align": "left",
               "font-size": "23px",
-              "color": "#c0a375",
+              "color": "#ffffff",
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             },
@@ -126,7 +126,7 @@
               "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i"
             },
             ".mbr-section-text B": {
-              "color": "#c0a375",
+              "color": "#cccccc",
               "font-size": "22px"
             },
             ".mbr-section-text I": {
@@ -134,7 +134,7 @@
             },
             ".mbr-section-title DIV": {
               "text-align": "center",
-              "color": "#c0a375",
+              "color": "#ffffff",
               "font-size": "36px"
             }
           }
@@ -147,425 +147,24 @@
             ".mbr-section-title": {
               "color": "#efefef",
               "font-size": "24px",
-              "text-align": "center"
+              "text-align": "center",
+              "font-family": "'Bitter', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700"
             }
           },
           "_params": {
             "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": "2",
-            "bgColor": "#000000"
+            "bgColor": "#160101"
           },
-          "title": "Sorry just waiting for new stock pics",
+          "title": "&nbsp;Sorry no in stock pics &nbsp;just waiting on Capricorn car sales new in stock pics for 2018",
           "meta": "",
           "_tags": [
             "Theme"
           ],
           "_name": "header3",
           "_anchor": "header3-1l"
-        },
-        {
-          "_inherit": "gallery1",
-          "_params": {
-            "showBullets": true,
-            "fullWidth": true,
-            "spacing": "1",
-            "paddingTop": "0",
-            "paddingBottom": "1",
-            "filterBgColor": true,
-            "bgColor": "#000000",
-            "showText": false,
-            "filter": false,
-            "images": [
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/capture-office-at-cap-776x576.png",
-                "thumb": "@PROJECT_PATH@/assets/images/capture-office-at-cap-776x576-776x576.png",
-                "alt": "",
-                "caption": "",
-                "active": true
-              },
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/ford-mondeo-2.0td-163ps-powershift-2010-titanium-x-tjv-1600x1199.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/ford-mondeo-2.0td-163ps-powershift-2010-titanium-x-tjv-1600x1199-800x599.jpg",
-                "alt": "",
-                "caption": "Ford Mondeo 2.0TD ( 163ps ) Powershift 2010 Titanium X",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/ade-yau-1600x1199.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/ade-yau-1600x1199-800x599.jpg",
-                "alt": "",
-                "caption": "Audi TT Coupe 1.8 ( 225bhp ) quattro\n<br>",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/alfa-juf-1600x1199.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/alfa-juf-1600x1199-800x599.jpg",
-                "alt": "",
-                "caption": "Alfa Romeo MiTo 1.3JTDm-2 95bhp Sprint\n<br>",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/bm-ujk-1600x1199.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/bm-ujk-1600x1199-800x599.jpg",
-                "alt": "",
-                "caption": "BMW 118 D M SPORT 2012\n<br>",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/citroen-c3-picasso-1600x1199.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/citroen-c3-picasso-1600x1199-800x599.jpg",
-                "alt": "",
-                "caption": "Citroen C3 Picasso 1.6HDi ( 92bhp ) VTR+",
-                "active": false
-              },
-              {
-                "tags": "Beautiful",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/citroen-ds3-1.6hdi-110-dsport-2010-dhy-1600x1199.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/citroen-ds3-1.6hdi-110-dsport-2010-dhy-1600x1199-800x599.jpg",
-                "alt": "",
-                "caption": "Citroen DS3 1.6HDi 110 DSport 2010",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/fiat-500c-1.2-lounge-convertable-ouw-1600x1199.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/fiat-500c-1.2-lounge-convertable-ouw-1600x1199-800x599.jpg",
-                "alt": "",
-                "caption": "Fiat 500C 1.2 LOUNGE CONVERTABLE",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/ford-fiesta-1.4-2009-zetec-zxk-1600x1199.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/ford-fiesta-1.4-2009-zetec-zxk-1600x1199-800x599.jpg",
-                "alt": "",
-                "caption": "Ford Fiesta 1.4 2009 Zetec",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/ford-fiesta-1.6tdci-2009-zetec-s-fem-1600x1199.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/ford-fiesta-1.6tdci-2009-zetec-s-fem-1600x1199-800x599.jpg",
-                "alt": "",
-                "caption": "Ford Fiesta 1.6TDCi 2009 Zetec S",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/ford-focus-1.6-100ps-2008-style-akg-1600x1199.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/ford-focus-1.6-100ps-2008-style-akg-1600x1199-800x599.jpg",
-                "alt": "",
-                "caption": "Ford Focus 1.6 ( 100ps ) 2008 Style",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/honda-fr-v-2.0i-vtec-sport-2006-uwv-1600x1199.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/honda-fr-v-2.0i-vtec-sport-2006-uwv-1600x1199-800x599.jpg",
-                "alt": "",
-                "caption": "Honda FR-V 2.0i-VTEC Sport 2006",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/hyundai-i10-1.1-comfort-zkc-1600x1199.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/hyundai-i10-1.1-comfort-zkc-1600x1199-800x599.jpg",
-                "alt": "",
-                "caption": "Hyundai i10 1.1 Comfort",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/hyundai-i30-1.6-style-xos-1600x1199.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/hyundai-i30-1.6-style-xos-1600x1199-800x599.jpg",
-                "alt": "",
-                "caption": "Hyundai i30 1.6 Style",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/kia-ceed-1.6crdi-88bhp-gs-uyt-1600x1199.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/kia-ceed-1.6crdi-88bhp-gs-uyt-1600x1199-800x599.jpg",
-                "alt": "",
-                "caption": "Kia ceed 1.6CRDi ( 88bhp ) GS",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/kia-ceed-1.6td-114bhp-2010-2-eac-1600x1199.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/kia-ceed-1.6td-114bhp-2010-2-eac-1600x1199-800x599.jpg",
-                "alt": "",
-                "caption": "Kia ceed 1.6TD ( 114bhp ) 2010 2",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/land-rover-discovery-3-2.7tdv6-commercial-dtn-1600x1199.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/land-rover-discovery-3-2.7tdv6-commercial-dtn-1600x1199-800x599.jpg",
-                "alt": "",
-                "caption": "Land Rover Discovery 3 2.7tdv6 commercial",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/land-rover-freelander-2-2.2td4-auto-2008-hst-eeh-1600x1199.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/land-rover-freelander-2-2.2td4-auto-2008-hst-eeh-1600x1199-800x599.jpg",
-                "alt": "",
-                "caption": "Land Rover Freelander 2 2.2Td4 auto 2008 HST&nbsp;",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/peugeot-107-1.0-12v-allure-2010-vjn-1600x1199.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/peugeot-107-1.0-12v-allure-2010-vjn-1600x1199-800x599.jpg",
-                "alt": "",
-                "caption": "Peugeot 107 1.0 12v Allure 2010",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/vauxhall-opel-corsa-1.2i-16v-85ps-limited-edition-a-c-2013-kxb-1600x1199.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/vauxhall-opel-corsa-1.2i-16v-85ps-limited-edition-a-c-2013-kxb-1600x1199-800x599.jpg",
-                "alt": "",
-                "caption": "",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/vauxhall-opel-astra-18i-16v-140ps-sport-hatch-2008-design-tzf-1600x1199.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/vauxhall-opel-astra-18i-16v-140ps-sport-hatch-2008-design-tzf-1600x1199-800x599.jpg",
-                "alt": "",
-                "caption": "",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/vauxhall-astravan-1.3cdti-16v-2008-club-hwx-1600x1199.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/vauxhall-astravan-1.3cdti-16v-2008-club-hwx-1600x1199-800x599.jpg",
-                "alt": "",
-                "caption": "",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/vauxhall-opel-corsa-1.8i-16v-a-c-2005-sri-sdu-1600x1199.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/vauxhall-opel-corsa-1.8i-16v-a-c-2005-sri-sdu-1600x1199-800x599.jpg",
-                "alt": "",
-                "caption": "",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/vauxhall-opel-insignia-1.8i-16v-vvt-2009-exclusiv-whc-1600x1199.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/vauxhall-opel-insignia-1.8i-16v-vvt-2009-exclusiv-whc-1600x1199-800x599.jpg",
-                "alt": "",
-                "caption": "",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/vauxhall-opel-insignia-2.0cdti-16v-160ps-2011-sri-nwc-1600x1199.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/vauxhall-opel-insignia-2.0cdti-16v-160ps-2011-sri-nwc-1600x1199-800x599.jpg",
-                "alt": "",
-                "caption": "",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/vauxhall-opel-meriva-1.4-16v-140ps-a-c-1398cc-2010-exclusiv-ttx-1600x1199.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/vauxhall-opel-meriva-1.4-16v-140ps-a-c-1398cc-2010-exclusiv-ttx-1600x1199-800x599.jpg",
-                "alt": "",
-                "caption": "",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/volkswagen-golf-1.6-fsi-115ps-2008-match-xtl-1600x1199.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/volkswagen-golf-1.6-fsi-115ps-2008-match-xtl-1600x1199-800x599.jpg",
-                "alt": "",
-                "caption": "",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/renault-clio-1.2-16v-75-2009-tomtom-ufd-1600x1199.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/renault-clio-1.2-16v-75-2009-tomtom-ufd-1600x1199-800x599.jpg",
-                "alt": "",
-                "caption": "",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/renault-clio-1.4-16v-98-dynamique-2006-nbx-1600x1200.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/renault-clio-1.4-16v-98-dynamique-2006-nbx-1600x1200-800x600.jpg",
-                "alt": "",
-                "caption": "",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/renault-megane-1.5dci-106-dynamique-yus-1600x1199.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/renault-megane-1.5dci-106-dynamique-yus-1600x1199-800x599.jpg",
-                "alt": "",
-                "caption": "",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/renault-megane-1.6vvt-110-dynamique-dzg-1600x1199.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/renault-megane-1.6vvt-110-dynamique-dzg-1600x1199-800x599.jpg",
-                "alt": "",
-                "caption": "",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/renault-wind-roadster-1.2tce-100-2011-gt-line-wbx-1600x1199.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/renault-wind-roadster-1.2tce-100-2011-gt-line-wbx-1600x1199-800x599.jpg",
-                "alt": "",
-                "caption": "",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/suzuki-grand-vitara-1.9ddis-2007-xvo-1600x1199.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/suzuki-grand-vitara-1.9ddis-2007-xvo-1600x1199-800x599.jpg",
-                "alt": "",
-                "caption": "",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/peugeot-3008-crossover-1.6e-hdi-115bhp-fap-egc-2013-active-2324-1600x1199-800x599.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/peugeot-3008-crossover-1.6e-hdi-115bhp-fap-egc-2013-active-2324-1600x1199-800x599-800x599.jpg",
-                "alt": "",
-                "caption": "",
-                "active": false
-              }
-            ]
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "articleLayout": false,
-          "allItem": "All",
-          "_name": "gallery3",
-          "_anchor": "gallery3-8",
-          "_styles": {
-            ".mbr-gallery-item > div > span": {
-              "font-size": "16px",
-              "text-align": "center"
-            }
-          }
         },
         {
           "_params": {
@@ -751,8 +350,9 @@
               "src": "@PROJECT_PATH@/assets/images/logo-3-132x101.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": ""
+              "link": "http://www.capricorncars.co.uk/Pages/default.aspx",
+              "title": "",
+              "linkInNewWindow": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
